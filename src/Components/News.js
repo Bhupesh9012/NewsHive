@@ -71,14 +71,14 @@ export class News extends Component {
             <div className="row">
             {!loading && articles.map((element)=>{
               return<div className="col-md-4" key={element.url}>
-            <Newsitem  title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage} newsUrl={element.url}/>
+            <Newsitem  title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
             </div>
             })}        
         </div>  
         <div className="container d-flex justify-content-between">
         <button disabled={this.state.page<=1} type="button" className="btn btn-primary" onClick={this.handlePreviousClick}>&#8592; Previous</button>
         <button disabled={this.state.page + 1>Math.ceil(this.state.totalResultstotalResults/this.props.pagesize)}type="button" className="btn btn-primary" onClick={this.handleNextClick}>Next &#8594;</button>
-        </div>  
+        </div> d
       </div>
     )
   }
