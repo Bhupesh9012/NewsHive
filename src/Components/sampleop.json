@@ -1,1306 +1,395 @@
 {
-    "status": "ok",
-    "totalResults": 919,
-    "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "VentureBeat"
-            },
-            "author": "Carl Franzen",
-            "title": "A new, enterprise-specific AI speech model is here: Jargonic from aiOla claims to best rivals at your business’s lingo",
-            "description": "The model’s architecture integrates keyword spotting directly into the transcription process, allowing Jargonic to maintain accuracy...",
-            "url": "https://venturebeat.com/ai/a-new-enterprise-specific-ai-speech-model-is-here-jargonic-from-aiola-claims-to-best-rivals-at-your-businesss-lingo/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/03/cfr0z3n_a_robot_with_headphones_emitting_visible_sound_waves_in_4f884cad-1490-4163-977a-c8fb88af3c56.png?w=1024?w=1200&strip=all",
-            "publishedAt": "2025-03-31T13:00:00Z",
-            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nSpeech recognition models have grown increasingly accurate in recent ye… [+5482 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Sherri L Smith",
-            "title": "Bless the Modder Who Is Fixing AMD’s Newest GPUs",
-            "description": "Modders FTW! Modder HighYield shows off free app that brings AMD's FSR 4 tech to more games.",
-            "url": "https://gizmodo.com/bless-the-modder-who-is-fixing-amds-newest-gpus-2000576983",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/optiscaler-mod-amd-fsr-4.jpg",
-            "publishedAt": "2025-03-17T20:12:31Z",
-            "content": "You save up your hard-earned money to invest in a new graphics card for your PC, snagged your new prized possession, and life is good. Youre gaming with smooth renders, negligible latency, and bliste… [+2297 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "bradypsnyder@gmail.com (Brady Snyder)",
-            "title": "Gmail's new search results prioritize relevant emails over recent ones",
-            "description": "Gmail's upgraded search algorithm will factor in recency, most-clicked emails and frequent contacts, rather than solely focusing on chronological order.",
-            "url": "https://www.androidcentral.com/apps-software/gmail/gmails-new-search-results-prioritize-relevant-emails-over-recent-ones",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GUs6ZKiyd2bJdRk2rFiemA-1200-80.jpg",
-            "publishedAt": "2025-03-20T21:25:35Z",
-            "content": "What you need to know\r\n<ul><li>Gmail is rolling out a new, upgraded version of mail search that can prioritize \"most relevant\" results.</li><li>Users can still manually sort \"most recent\" results to … [+2305 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thedailywtf.com"
-            },
-            "author": "Remy Porter",
-            "title": "CodeSOD: Unnavigable",
-            "description": "Do you know what I had forgotten until this morning? That VBScript (and thus, older versions of Visual Basic) don't require you to use parentheses when calling a function. Foo 5 and Foo(5) are the same thing.\nOf course, why would I remember that? I thankfully…",
-            "url": "https://thedailywtf.com/articles/unnavigable",
-            "urlToImage": "https://s3.amazonaws.com/remy.jetpackshark.com/remy-thumb.jpg",
-            "publishedAt": "2025-04-07T06:30:00Z",
-            "content": "Do you know what I had forgotten until this morning? That VBScript (and thus, older versions of Visual Basic) don't require you to use parentheses when calling a function. Foo 5 and Foo(5) are the sa… [+14229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Brittany Vincent",
-            "title": "Lifetime Access to All-in-One AI Tool 1Min.AI for Peanuts, Now Just $30 (87% Off)",
-            "description": "If you're looking to delve into the world of AI, this might be your best and cheapest bet to do so.",
-            "url": "https://gizmodo.com/lifetime-access-to-all-in-one-ai-tool-1min-ai-for-peanuts-now-just-30-87-off-2000576244",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/1minai.jpg",
-            "publishedAt": "2025-03-17T14:55:36Z",
-            "content": "The rapid evolution of AI tools has transformed everything from content creation to image editing, but keeping up with subscription costs for multiple specialized services can quickly become prohibit… [+3806 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Instagram Tests Reels You Can Only Watch With a Secret Code",
-            "description": "Instagram seems to be testing locked reels that require viewers to enter a keyword or a code to be able to see the hidden content. It's a feature that creators could use to increase engagement or to share content with their most loyal fans.\n\n\n\n\n\nTechCrunch no…",
-            "url": "https://www.macrumors.com/2025/04/09/instagram-locked-reels/",
-            "urlToImage": "https://images.macrumors.com/t/bsOSrB2b0Z3xDe1t2ZrWCPOfwik=/2000x/article-new/2025/04/instagram-locked-reel.jpg",
-            "publishedAt": "2025-04-09T22:56:27Z",
-            "content": "Instagram seems to be testing locked reels that require viewers to enter a keyword or a code to be able to see the hidden content. It's a feature that creators could use to increase engagement or to … [+868 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
-            "title": "It's time to say goodbye to Google Assistant as Gemini takes over",
-            "description": "Google announced today Google Assistant will no longer be accessible on most mobile devices, in the coming months.",
-            "url": "https://www.androidcentral.com/apps-software/google-assistant/google-assistant-becomes-gemini",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fANtCWfwKDAUisnEp6zesm-1200-80.jpg",
-            "publishedAt": "2025-03-14T18:51:07Z",
-            "content": "What you need to know\r\n<ul><li>Google announced that it will be upgrading Google Assistant with Gemini \"in the coming months.\"</li><li>By the end of this year, people will not be able to download Goo… [+2818 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jennifer Pattison Tuohy",
-            "title": "Wyze’s new camera filter claims to cut down on nuisance alerts",
-            "description": "Security cameras can be helpful for spotting package thieves, letting you know when your kid got home from school, or scaring off that rascally raccoon rustling around your chicken coop. But constant notifications from these devices can make them more annoyin…",
-            "url": "https://www.theverge.com/news/636353/wyze-no-big-deal-filter-security-camera-notifications",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/NBD-Lifestyle-2.png?quality=90&strip=all&crop=9.92578125%2C0%2C90.07421875%2C70.740020561512&w=1200",
-            "publishedAt": "2025-03-26T15:08:39Z",
-            "content": "The new AI-powered No Big Deal Filter aims to reduce notification fatigue by only sending high-priority alerts from your security cameras.\r\nThe new AI-powered No Big Deal Filter aims to reduce notifi… [+4152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Ginny Marvin",
-            "title": "Google PMax: Inside The Negative Keyword Limit Increase & What’s Next via @sejournal, @adsliaison",
-            "description": "Explore the reasons behind the negative keyword limit increase in Google Ads and what it means for your advertising strategy.\nThe post Google PMax: Inside The Negative Keyword Limit Increase & What’s Next appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/google-pmax-negative-keyword-limit-increase/542336/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/keyword-limit-725.png",
-            "publishedAt": "2025-03-18T12:00:12Z",
-            "content": "As Google’s Ad Product Liaison, I often share updates and insights with the community of digital advertisers and, best of all, get to hear your feedback first-hand.\r\nWe heard quite a lot after our re… [+10375 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Aiola.ai"
-            },
-            "author": "Assaf Asbag",
-            "title": "Jargonic: Industry-Tunable ASR Model",
-            "description": "Introduction Automatic Speech Recognition (ASR) has made significant strides over the last decade, but most ASR models on the market offer general-purpose transcription. They perform well in clean, controlled environments but break down when handling: Technic…",
-            "url": "https://aiola.ai/blog/introducing-jargonic-asr/",
-            "urlToImage": "https://aiola.ai/wp-content/uploads/2025/03/AI-BANNER_v2.jpg",
-            "publishedAt": "2025-04-01T07:35:23Z",
-            "content": "Home / Our Blog / Introducing Jargonic: The Worlds Most Accurate Industry-Tuned ASR ModelIntroduction\r\nAutomatic Speech Recognition (ASR) has made significant strides over the last decade, but most A… [+4708 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
-            "title": "Google's AI Mode gets Gemini's multimodal powers making it a visual search expert",
-            "description": "Google announced that it allows AI Mode users the ability to visually search",
-            "url": "https://www.androidcentral.com/apps-software/google-assistant/googles-ai-mode-gets-geminis-multimodal-powers",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WMab7m8CVng8rUHffk5bgR-1200-80.jpg",
-            "publishedAt": "2025-04-07T21:03:53Z",
-            "content": "What you need to know\r\n<ul><li>Google announced today that it will be integrating Gemini's multimodal capabilities into AI Mode on Google Search.</li><li>This will help expand Search's capabilities b… [+2629 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
-            "title": "Google Maps doubles down on preventing fake reviews",
-            "description": "Google is using AI to find fake reviews on Google Maps, and is issuing more ‘suspected fake reviews’ warnings.",
-            "url": "https://www.androidcentral.com/apps-software/google-maps/google-maps-doubles-down-on-preventing-fake-reviews",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gn8dcBjzJApeNwBYUkGuie-1200-80.jpg",
-            "publishedAt": "2025-04-08T18:27:09Z",
-            "content": "What you need to know\r\n<ul><li>Google is going after businesses that try to cheat the system with fake five-star reviews.</li><li>In its recent report, Google said it has trained Gemini to detect bus… [+2838 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yossarian.net"
-            },
-            "author": null,
-            "title": "Any program can be a GitHub Actions shell",
-            "description": "Comments",
-            "url": "https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/",
-            "urlToImage": null,
-            "publishedAt": "2025-04-08T01:20:10Z",
-            "content": "In GitHub Actions, you can use the shell keyword to specify the shell\r\nthat runs a given run: block. This keyword is optional for workflows\r\nbut mandatory for action definitions.\r\nThe shell normally … [+2017 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Github.io"
-            },
-            "author": "Jeremy Siek",
-            "title": "A proof checker meant for education",
-            "description": "Deduce is an automated proof checker meant for use in education to help students",
-            "url": "https://jsiek.github.io/deduce/index.html",
-            "urlToImage": "https://jsiek.github.io/deduce/images/logo.svg",
-            "publishedAt": "2025-03-21T11:47:37Z",
-            "content": "Get Started\r\nGet started by installing the necessary prerequisites and downloading the Deduce source code. \r\nYou can also find handy information on setting up your Deduce workspace.\r\nWrite Deduce Cod… [+584 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digiday"
-            },
-            "author": "Digiday Editors",
-            "title": "DoubleVerify overhauls its keyword-blocking policies",
-            "description": "DoubleVerify has unveiled policy and product updates as part of its News Accelerator program to reduce the impact of keyword blocklists on publishers.",
-            "url": "http://digiday.com/media-buying/doubleverify-overhauls-its-keyword-blocking-policies/",
-            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2022/11/brand-safety-knight.jpg",
-            "publishedAt": "2025-03-20T04:01:00Z",
-            "content": "DoubleVerify has unveiled policy and product updates as part of its News Accelerator program to reduce the impact of keyword blocklists on publishers. These developments come amid high-profile critic… [+2523 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Roger Montti",
-            "title": "Data Shows Google AIO Is Citing Deeper Into Websites via @sejournal, @martinibuster",
-            "description": "Google AIO trends are making it increasingly important to keep older content relevant, fresh, and indexed\nThe post Data Shows Google AIO Is Citing Deeper Into Websites appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/data-shows-google-aio-is-citing-deeper-into-websites/543325/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/04/google-aio-trends-60.jpg",
-            "publishedAt": "2025-04-01T10:17:10Z",
-            "content": "New data from BrightEdge that was shared with Search Engine Journal shows that Google’s AI Overviews (AIO) in March 2025 have rapidly expanded in size and are shifting how traffic is distributed acro… [+4233 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Css-tricks.com"
-            },
-            "author": "Geoff Graham",
-            "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
-            "description": "I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.\n:is(section, article, aside, \n…\n\nQuick Reminder…",
-            "url": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/",
-            "urlToImage": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg",
-            "publishedAt": "2025-03-20T13:51:29Z",
-            "content": "Ive seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot mor… [+1734 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Bright Data",
-            "title": "Google AIO: 4 Ways To Find Out If Your Brand Is Visible In Generative AI [With Prompts] via @sejournal, @bright_data",
-            "description": "Find out if you're visible within Google's AI Overviews (Google AIO). Learn AI prompts you need to find out where you rank on 2025 SERPs.\nThe post Google AIO: 4 Ways To Find Out If Your Brand Is Visible In Generative AI [With Prompts] appeared first on Search…",
-            "url": "https://www.searchenginejournal.com/google-aio-serp-rankings-brightdata-spa/541172/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/featured-572.png",
-            "publishedAt": "2025-03-12T17:45:13Z",
-            "content": "This post was sponsored by Bright Data. The opinions expressed in this article are the sponsor’s own.\r\nImagine this in the time of Google AIO: A potential customer asks Google Gemini, ChatGPT, or Per… [+6337 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Github.com"
-            },
-            "author": "DmitryOlkhovoi",
-            "title": "Sketch-Programming: A Minimalist Paradigm for Code Design",
-            "description": "Ideas, concepts, tools and examples of sketch programming - DmitryOlkhovoi/Sketch-programming",
-            "url": "https://github.com/DmitryOlkhovoi/Sketch-programming",
-            "urlToImage": "https://opengraph.githubassets.com/099a9da6f68efe84da96cf7d154c8182e745ff86d92e8371ede5e696e801a76a/DmitryOlkhovoi/Sketch-programming",
-            "publishedAt": "2025-03-13T21:31:53Z",
-            "content": "Ideas, concepts, tools and examples of sketch programming using LLM\r\nSketch-programming (or simply \"Sketch\") is a revolutionary approach to writing software that prioritizes simplicity, readability, … [+2342 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Bright Data",
-            "title": "Google AIO: 4 Ways To Find Out If Your Brand Is Visible In Generative AI [With Prompts] via @sejournal, @bright_data",
-            "description": "This post was sponsored by Bright Data. The opinions expressed in this article are the sponsor’s own. Imagine this: A potential customer asks Google Gemini, ChatGPT, or Perplexity AI for the best SEO tools, top e-commerce platforms, or leading digital agencie…",
-            "url": "https://www.searchenginejournal.com/google-aio-4-ways-to-find-out-if-your-brand-is-visible-in-generative-ai-with-prompts-spa/541172/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/featured-572.png",
-            "publishedAt": "2025-03-12T17:45:13Z",
-            "content": "This post was sponsored by Bright Data. The opinions expressed in this article are the sponsor’s own.\r\nImagine this: A potential customer asks Google Gemini, ChatGPT, or Perplexity AI for the best SE… [+6300 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techmeme.com"
-            },
-            "author": null,
-            "title": "Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal (Paul Liu/The Keyword)",
-            "description": "Paul Liu / The Keyword:\nGoogle says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal  —  Google ran an experiment to understand the value of European news cont…",
-            "url": "https://www.techmeme.com/250321/p29",
-            "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2024-11-12_4.10.19_PM.width-1200.f.width-1300.png",
-            "publishedAt": "2025-03-21T21:55:01Z",
-            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:00 PM ET, March 21, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo vie… [+135 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
-            "title": "News Weekly: Massive Pixel 10 leak, March update chaos, OnePlus ditching its Alert Slider, and more",
-            "description": "This week we dive into a massive Pixel 10 leak that showed off all three models, Pixel users are scrambling after the latest March update, OnePlus has decided to ditch the alert slider, Android 16 Beta 3 arrives, and, the Gemini app gets new features.",
-            "url": "https://www.androidcentral.com/apps-software/news-weekly-march-15-2025",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nvHXow64HatxQTMuokcibb-1200-80.jpg",
-            "publishedAt": "2025-03-15T12:00:00Z",
-            "content": "(Image credit: Android Central)\r\nNews Weekly is our column where we highlight and summarize some of the week's top stories so you can catch up on the latest tech news.\r\nThis is Android Central's News… [+6025 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Benjamin Mayo",
-            "title": "Apple Maps Look Around cars will now also take photos to help train Apple Intelligence models",
-            "description": "You may have seen Apple Maps survey cars in your area before. As they drive around, the cars take photos and 3D scans to generate ground truth data that can be used to improve map accuracy and offer features like Look Around, Apple’s equivalent of Google Stre…",
-            "url": "https://9to5mac.com/2025/03/25/apple-maps-look-around-cars-will-now-also-take-photos-to-help-train-apple-intelligence-models/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/apple-maps-image-collection-cars-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2025-03-25T11:21:08Z",
-            "content": "You may have seen Apple Maps survey cars in your area before. As they drive around, the cars take photos and 3D scans to generate ground truth data that can be used to improve map accuracy and offer … [+2455 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Taylor Kerns",
-            "title": "AI is fueling a surge in electricity demand, but Google has a solution: More AI",
-            "description": "It's straining the grid already, but maybe the problem is we're not using *enough* AI?",
-            "url": "https://www.androidpolice.com/google-tapestry-pjm-electricity-partnership/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/01/generic-google-hero-outdoors-ces-2024.jpg",
-            "publishedAt": "2025-04-10T16:39:48Z",
-            "content": "Summary\r\n<ul><li>\r\n Google partners with PJM to improve electricity grid.\r\n </li><li>\r\n AI will ideally streamline and accelerate the grid interconnection process.\r\n </li><li>\r\n Project aims to meet … [+2195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Taylor Kerns",
-            "title": "Google announces historic bid to acquire cloud security startup Wiz for $32 billion",
-            "description": "The deal, which would be the largest acquisition in Google history, will surely face regulatory scrutiny",
-            "url": "https://www.androidpolice.com/google-acquires-wiz/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/google-cloud-platform-app-logos-v2.jpg",
-            "publishedAt": "2025-03-18T18:40:12Z",
-            "content": "Summary\r\n<ul><li>\r\n Google intends to purchase Wiz for $32 billion in cash to enhance cloud security and multi-cloud capabilities.\r\n </li><li>\r\n The acquisition reflects Google's focus on its rapidly… [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GameSpot"
-            },
-            "author": "Jon Bitner",
-            "title": "Star Wars: Unlimited TCG Jump To Lightspeed Expansion Available Now And Discounted",
-            "description": "The popular trading card game, Star Wars: Unlimited, just grew a bit larger with the arrival of its Jump to Lightspeed expansion. Introducing the new piloting keyword and a focus on characters like Han Solo and Boba Fett, you'll find a bunch of additional mec…",
-            "url": "https://www.gamespot.com/articles/star-wars-unlimited-tcg-jump-to-lightspeed-expansion-available-now-and-discounted/1100-6530288/",
-            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4463126-maxresdefault%281%29.jpg",
-            "publishedAt": "2025-03-21T17:26:00Z",
-            "content": "The popular trading card game, Star Wars: Unlimited, just grew a bit larger with the arrival of its Jump to Lightspeed expansion. Introducing the new piloting keyword and a focus on characters like H… [+1010 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Habr.com"
-            },
-            "author": "georgiyozhegov",
-            "title": "Шаг 1: Lexing",
-            "description": "Относительно других этапов компиляции, лексический анализ – самый простой, хотя и может показаться сложным на первый взгляд, поэтому эта статья будет самой короткой из серии. Если интересно разобраться – вперёд читать! Читать далее",
-            "url": "https://habr.com/ru/articles/890344/#post-content-body",
-            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/ec1/5c4/3f4/ec15c43f43d07f18dac154ca7b89d6c3.png",
-            "publishedAt": "2025-03-12T16:27:45Z",
-            "content": ", . , , .\r\n , , , .\r\n , .\r\nsource.txt\r\n .\r\nlet a = 10 + 2\r\nif a &gt; 8 then\r\n debug \"A 8\"\r\nelse\r\n debug \" , 8\"\r\nend\r\nsrc/main.rs\r\n . .peekable() .\r\nfn main() {\r\n let source = fs::read_to_string(\"sour… [+2993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Loren Baker",
-            "title": "High-Quality Conversions: How To Optimize Your Website & Boost Growth via @sejournal, @lorenbaker",
-            "description": "Join us as we dive into the advanced techniques top brands use to enhance search performance and skyrocket conversions.\nThe post High-Quality Conversions: How To Optimize Your Website & Boost Growth appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/optimize-your-website-and-boost-growth/540742/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/02/featured-152.png",
-            "publishedAt": "2025-03-19T15:00:11Z",
-            "content": "Ready to turn your site into a powerful growth engine in 2025? \r\nWatch on-demand as we unpack the strategies top brands use to optimize their sites for better search performance and more conversions … [+1008 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Kevin Indig",
-            "title": "An AI-Powered Workflow To Solve Content Cannibalization via @sejournal, @Kevin_Indig",
-            "description": "When your pages compete, your rankings suffer. Learn to identify, resolve, and automate content cannibalization detection for lasting SEO success.\nThe post An AI-Powered Workflow To Solve Content Cannibalization appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/ai-workflow-content-cannibalization/543352/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/03/kevin-indig-growth-memo-133.png",
-            "publishedAt": "2025-04-01T13:30:00Z",
-            "content": "Your site likely suffers from at least some content cannibalization, and you might not even realize it.\r\nCannibalization hurts organic traffic and revenue: The impact can stretch from key pages not r… [+12891 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digiday"
-            },
-            "author": "Sara Guaglione",
-            "title": "Measuring Google’s AI Overviews’ impact: Why keyword data is more telling than CTRs for publishers",
-            "description": "Measuring the impact of Google’s AI Overviews on publishers’ search referral traffic hasn’t been straightforward via click-through data — but keyword data is proving more fruitful.",
-            "url": "http://digiday.com/media/measuring-googles-ai-overviews-impact-keyword-data-ctrs-for-publishers/",
-            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2022/04/google-screensaver-gif.gif",
-            "publishedAt": "2025-03-19T04:01:00Z",
-            "content": "Measuring the impact of Googles AI Overviews on publishers search referral traffic hasnt been straightforward via click-through data but keyword data is proving more fruitful. Nearly 19 million keywo… [+5271 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digital Trends"
-            },
-            "author": "Nadeem Sarwar",
-            "title": "The search system in Gmail is about to get a lot less frustrating",
-            "description": "Gmail will let you quickly find emails by preferring results based on how frequently you chat with a person, the click frequency, and how recently it arrived.",
-            "url": "https://www.digitaltrends.com/computing/emails-search-gmail-artificial-intelligence-update/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/12/gmail.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2025-03-21T06:30:26Z",
-            "content": "Finding relevant information on Gmail can be a daunting task, especially if you have a particularly buzzy inbox. Right now, the email client uses a search operator system that acts somewhat like a sh… [+2916 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Kiri Masters, Contributor, \n Kiri Masters, Contributor\n https://www.forbes.com/sites/kirimasters/",
-            "title": "Amazon’s New Alexa+ Forces Brands To Rethink Their Marketing Strategy",
-            "description": "In a new era of voice commerce, traditional keyword optimization gives way to a more attribute-based, conversational approach to product content on retailer websites.",
-            "url": "https://www.forbes.com/sites/kirimasters/2025/03/14/amazon-alexa-forces-brands-to-rethink-their-marketing-strategy/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d2853a16cdaa9dba30fa2e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-03-14T12:00:00Z",
-            "content": "UKRAINE - 2022/01/13: In this photo illustration, the Amazon Alexa logo is seen displayed on a ... [+] smartphone screen and Amazon logo in the background. (Photo Illustration by Igor Golovniov/SOPA … [+9539 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Michael Hudson, Contributor, \n Michael Hudson, Contributor\n https://www.forbes.com/sites/michaelhudson/",
-            "title": "The Hidden Cost Of Perfectionism: Why Organizations Need Productive Failure",
-            "description": "Most organizations claim to value innovation; it has become the must-use keyword in mission statements, strategy documents and leadership speeches across industries.",
-            "url": "https://www.forbes.com/sites/michaelhudson/2025/03/20/the-hidden-cost-of-perfectionism-why-organizations-need-productive-failure/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67dafc44ef1c89bbc00f69ad/0x0.jpg?format=jpg&crop=3047,1712,x466,y0,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-03-20T10:30:00Z",
-            "content": "Organizations that distinguish between preventable and productive failures consistently outperform ... [+] those with blanket approaches to mistake management.\r\ngetty\r\nImagine a zero-error day. Every… [+5550 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Javacodegeeks.com"
-            },
-            "author": "Omozegie Aziegbe",
-            "title": "Building a Semantic Search System with Spring AI and PGVector",
-            "description": "Semantic search enhances traditional keyword-based search by understanding the meaning and context of queries rather than relying on exact keyword matches. This approach is useful for applications such as recommendation systems, document retrieval, intelligen…",
-            "url": "https://www.javacodegeeks.com/building-a-semantic-search-system-with-spring-ai-and-pgvector.html",
-            "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2025/02/ollama-logo.jpg",
-            "publishedAt": "2025-03-28T08:49:00Z",
-            "content": "Semantic search enhances traditional keyword-based search by understanding the meaning and context of queries rather than relying on exact keyword matches. This approach is useful for applications su… [+12109 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Crazyegg.com"
-            },
-            "author": "Adrijan Arsovski",
-            "title": "7 Free Keyword Research Tools (The Best of the Best)",
-            "description": "A free keyword research tool is a platform, app, or website that allows you to search competitive keywords for free. Keywords (also known as search...\nThe post 7 Free Keyword Research Tools (The Best of the Best) appeared first on The Daily Egg.",
-            "url": "https://www.crazyegg.com/blog/free-keyword-research-tools/",
-            "urlToImage": "https://ceblog.s3.amazonaws.com/wp-content/uploads/2018/04/10160728/Free-Keyword-Research-Tools-AnswerThePublic.png",
-            "publishedAt": "2025-04-10T11:45:00Z",
-            "content": "A free keyword research tool is a platform, app, or website that allows you to search competitive keywords for free. Keywords (also known as search terms, phrases, and queries) are directly related t… [+19930 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Katherine Watt",
-            "title": "Mortgage Rate Predictions: Are Tariffs Affecting Spring Homebuying?",
-            "description": "Mortgage interest rates could see volatility with the increased risk of a global trade war and recession.",
-            "url": "https://www.cnet.com/personal-finance/mortgage-rate-predictions-are-tariffs-affecting-spring-homebuying/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/4bc9cbbef1f51f4ca8265d729d9a63fe0326f577/hub/2024/08/26/39961326-95b0-4d48-8118-40eed27606c3/weekly-mortgage-predictions-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-04-07T09:00:03Z",
-            "content": "President Donald Trump's announcement last week of an aggressive wave of reciprocal tariffs on multiple countries and a 10% universal import tax triggered massive stock market chaos. The move also es… [+7152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Katherine Watt",
-            "title": "Mortgage Rate Predictions: Will Tariffs Impact Spring Homebuying?",
-            "description": "Experts say mortgage interest rates could see volatility with the increased risk of a global trade war and recession.",
-            "url": "https://www.cnet.com/personal-finance/mortgage-rate-predictions-will-tariffs-impact-spring-homebuying/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/4bc9cbbef1f51f4ca8265d729d9a63fe0326f577/hub/2024/08/26/39961326-95b0-4d48-8118-40eed27606c3/weekly-mortgage-predictions-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-04-04T16:39:16Z",
-            "content": "President Trump's announcement this week of an aggressive wave of reciprocal tariffs on multiple countries and a 10% universal import tax triggered massive stock market chaos. The move also escalated… [+7050 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techbang.com"
-            },
-            "author": "janus",
-            "title": "Gmail將導入 AI 技術，搜尋結果更個人化、更省時",
-            "description": "Google 搜尋導入 AI 技術，讓 Gmail 搜尋結果更個人化、更省時！了解 Google 如何利用 AI 提升搜尋效率，讓您更快找到重要郵件，提升工作效率！Google 搜尋引擎不斷進化，現在更聰明、更個人化了！根據 Google 官方部落格 The Keyword 的最新公告，Google 搜尋不再僅僅依賴關鍵字和時間順序來呈現搜尋結果，而是加入了更多元的考量因素，旨在提供更符合使用者需求的資訊。\n這次更新的核心在於導入人工智慧 (AI) 技術，讓 Google 搜尋能夠理解使用者的意圖，並根據「時效性…",
-            "url": "https://www.techbang.com/posts/122110-gmail-will-incorporate-ai-technology-to-make-search-results",
-            "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/122110/original/4730699953983d4e6fa521ab0bec1889.jpg?1742546804",
-            "publishedAt": "2025-03-23T01:30:00Z",
-            "content": "Google Google The Keyword Google \r\n (AI) Google Google Gmail \r\nGmail AI Google \r\n Gmail Google \r\nGoogle AI Gmail Google \r\nGoogle AI Google"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Roger Montti",
-            "title": "Top SEO Shares How To Win In The Era Of Google AI via @sejournal, @martinibuster",
-            "description": "Jono Alderson proposes a radical rethink of content strategy to compete against AI and win in Google Search\nThe post Top SEO Shares How To Win In The Era Of Google AI appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/top-seo-shares-how-to-win-in-the-era-of-google-ai/543027/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/jono-alderson-seo-667.jpg",
-            "publishedAt": "2025-03-27T10:21:26Z",
-            "content": "Jono Alderson, former head of SEO at Yoast and now at Meta, spoke on the Majestic Podcast about the state of SEO, offering insights on the decline of traditional content strategies and the rise of AI… [+10761 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HYPEBEAST"
-            },
-            "author": "info@hypebeast.com (Hypebeast)",
-            "title": "Parisian Luxury, Powerful Shoulders, and Furry Fabrics: Tagwalk's FW25 Data Report Is Here",
-            "description": "In a season filled with sudden departures, extended resignations, and infinite whispers, somehow, the actual collections felt lost in the mix. While most of the industry turned inwards, speculating brand politics, data-driven search engine Tagwalk continued t…",
-            "url": "https://hypebeast.com/2025/3/tagwalk-fall-winter-2025-data-report-info",
-            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F03%2F20%2Ftagwalk-fall-winter-2025-data-report-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-            "publishedAt": "2025-03-20T19:46:19Z",
-            "content": "In a season filled with sudden departures, extended resignations, and infinite whispers, somehow, the actual collections felt lost in the mix. While most of the industry turned inwards, speculating b… [+2529 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Github.com"
-            },
-            "author": "SerenityOS",
-            "title": "The Jakt Programming Language",
-            "description": "The Jakt Programming Language. Contribute to SerenityOS/jakt development by creating an account on GitHub.",
-            "url": "https://github.com/SerenityOS/jakt",
-            "urlToImage": "https://opengraph.githubassets.com/41e1806c2edda6e91f4b84e7772f4ac02c989fd11e746ac0d557c8f05b153b74/SerenityOS/jakt",
-            "publishedAt": "2025-03-21T16:34:26Z",
-            "content": "Jakt is a memory-safe systems programming language.\r\nIt currently transpiles to C++.\r\nNOTE: The language is under heavy development.\r\nNOTE If you're cloning to a Windows PC (not WSL), make sure that … [+17354 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Practical Ecommerce"
-            },
-            "author": "Ann Smarty",
-            "title": "Search Volume Tools for Marketers",
-            "description": "Search terms rise and fall in popularity. Understanding the movements aids informed decisions.\nThe post Search Volume Tools for Marketers appeared first on Practical Ecommerce.",
-            "url": "https://www.practicalecommerce.com/search-volume-tools-for-marketers",
-            "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2025/03/Search-Volume-Tools-for-Marketers.jpg",
-            "publishedAt": "2025-03-31T12:17:11Z",
-            "content": "Understanding keyword trends is key for organic and paid search performance.\r\nSearch terms rise and fall in popularity. Understanding the movements aids informed decisions, such as naming products, l… [+3141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VentureBeat"
-            },
-            "author": "Carl Franzen",
-            "title": "Midjourney v7 launches with voice prompting and faster draft mode — why is it getting mixed reviews?",
-            "description": "While most Midjourney releases were met with overwhelming excitement and adulation, the initial reception to v7 is decidedly more mixed.",
-            "url": "https://venturebeat.com/ai/midjourney-v7-launches-with-voice-prompting-and-faster-draft-mode-why-is-it-getting-mixed-reviews/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_An_attractive_androgynous_young_adult_with_cybernetic_l_42a3d8f9-318a-48c6-b577-ae86beb36599.png?w=1024?w=1200&strip=all",
-            "publishedAt": "2025-04-04T18:47:47Z",
-            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nMidjourney, the boot-strapped startup viewed by many AI power users as … [+9357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Github.com"
-            },
-            "author": "formal-land",
-            "title": "Coq-of-rust: Formal verification tool for Rust",
-            "description": "Formal verification tool for Rust: check 100% of execution cases of your programs  to make applications with no bugs! ✈️  ⚕️  - formal-land/coq-of-rust",
-            "url": "https://github.com/formal-land/coq-of-rust",
-            "urlToImage": "https://opengraph.githubassets.com/eec85d340327c6336eeb4831c0dc0d92ef5002a1872bad9f9a6cbfac5254a033/formal-land/coq-of-rust",
-            "publishedAt": "2025-03-14T08:34:18Z",
-            "content": "Formal verification tool for Rust: check 100% of execution cases of your programs to make applications with no bugs! \r\nEven if Rust's type system prevents many mistakes, including memory errors, the … [+4948 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Googleblog.com"
-            },
-            "author": "Android Developers",
-            "title": "Building excellent games with better graphics and performance",
-            "description": "Google Play and Android are enabling developers to build games with better graphics and performance for longer and more stable gameplay across devices",
-            "url": "https://android-developers.googleblog.com/2025/03/building-excellent-games-with-better-graphics-and-performance.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN_HtdEgCq24djhIsHQqpN6_hF12Qe4csFxs81QY8FuakaJu3h0JfsKWmGqxxqMxMsuLxZ0Olr02-VxG3_OodUzfkjPgDsHIx4NaUVuw61mSD7RdN_QyfWAgmKapWIgS1L33dFD46vvL6ElR0kogDxcepgnEZe89yhyphenhyphenTMNTwEF1co4lB7JvuXz1h-L_lA/s1600/Android-spotlight-at-GDC-2025.png",
-            "publishedAt": "2025-03-13T15:30:00Z",
-            "content": "Posted by Matthew McCullough – VP of Product Management, Android\n\n\n\nWe’re stepping up our multiplatform gaming offering with exciting news dropping at this year’s Game Developers Conference (GDC). We… [+5414 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PetaPixel"
-            },
-            "author": "Matt Growcoot",
-            "title": "Runway’s New AI Video Model Promises Character Consistency",
-            "description": "AI video company Runway has released a powerful new model that claims to generate consistent characters and realistic physics.\n[Read More]",
-            "url": "https://petapixel.com/2025/04/01/runways-new-ai-video-model-gen-4-promises-character-consistency/",
-            "urlToImage": "https://petapixel.com/assets/uploads/2025/04/Runway-Gen-4-Character.jpg",
-            "publishedAt": "2025-04-01T13:03:26Z",
-            "content": "Runway says Gen-4 can create consistent characters across an array of environments, as seen above.\r\nAI video company Runway has released a powerful new model that claims to generate consistent charac… [+2480 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Jon Gilbert",
-            "title": "Google needs to choose a hot word and stick with it",
-            "description": "\"Hey Google\" or \"Hey Gemini,\" does Google's choice of hotword matter?",
-            "url": "https://www.androidpolice.com/google-needs-to-choose-a-hot-word-and-stick-with-it/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/01/hey-google-voice-match-hero-1.jpg",
-            "publishedAt": "2025-04-06T09:02:10Z",
-            "content": "Whether you like it or not, Gemini is coming to your smartphone. Google plans to phase out Google Assistant on smartphones in favor of Gemini by the end of 2025, with other devices to follow suit. Th… [+4719 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smashingapps.com"
-            },
-            "author": "Team",
-            "title": "Boost Your Rankings with Top 10 Free SEO Tools",
-            "description": "With the right free SEO tools, you can gain critical insights into keyword research, perform competitor analysis, technical audits, and track your performance.",
-            "url": "https://www.smashingapps.com/top-10-free-seo-tools/",
-            "urlToImage": "https://www.smashingapps.com/wp-content/uploads/2025/04/top-10-free-seo-tools.jpg",
-            "publishedAt": "2025-04-11T20:44:32Z",
-            "content": "Are you looking to boost your websites performance without spending a fortune? In 2025, the digital landscape is more competitive than everbut you dont have to invest in expensive software to stay ah… [+16661 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thedailywtf.com"
-            },
-            "author": "Remy Porter",
-            "title": "Over Extended Methods",
-            "description": "Jenny had been perfectly happy working on a series of projects for her company, before someone said, \"Hey, we need you to build a desktop GUI for an existing API.\"\nThe request wasn't the problem, per se. The API, on the other hand, absolutely was.\nThe applica…",
-            "url": "https://thedailywtf.com/articles/over-extended-methods",
-            "urlToImage": "https://s3.amazonaws.com/remy.jetpackshark.com/remy-thumb.jpg",
-            "publishedAt": "2025-03-20T06:30:00Z",
-            "content": "Jenny had been perfectly happy working on a series of projects for her company, before someone said, \"Hey, we need you to build a desktop GUI for an existing API.\"\r\nThe request wasn't the problem, pe… [+3884 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Typeforyou.org"
-            },
-            "author": "typeforyou Pedro",
-            "title": "Google Ads Keyword Planner: Guide to Effective Keyword Research",
-            "description": "Google Ads Keyword Planner is one of the most powerful free keyword research tools available. Whether you’re running Google Ads campaigns or doing SEO, this tool helps...\nThe post Google Ads Keyword Planner: Guide to Effective Keyword Research first appeared …",
-            "url": "https://typeforyou.org/google-ads-keyword-planner/",
-            "urlToImage": null,
-            "publishedAt": "2025-03-30T21:55:52Z",
-            "content": "Google Ads Keyword Planner is one of the most powerful free keyword research tools available. Whether you’re running Google Ads campaigns or doing SEO, this tool helps you:\r\n<ul><li>Find high-traffic… [+4789 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Matt G. Southern",
-            "title": "Google Rolls Out AI-Powered Travel Updates For Search & Maps via @sejournal, @MattGSouthern",
-            "description": "Google launches AI travel planning upgrades across Search, Maps, and Lens with expanded itineraries and price tracking features.\nThe post Google Rolls Out AI-Powered Travel Updates For Search & Maps appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/google-rolls-out-ai-powered-travel-updates-for-search-maps/543050/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/bca31af4-efbf-405a-b92a-bf62987f3c6d-671.png",
-            "publishedAt": "2025-03-27T13:00:37Z",
-            "content": "Google has released its annual summer travel trends report alongside several AI-powered updates to its travel planning tools.\r\nThe announcement reveals shifting travel preferences while introducing e… [+3832 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Multimedia.cx"
-            },
-            "author": null,
-            "title": "My Rust experience after eight years",
-            "description": "Comments",
-            "url": "https://codecs.multimedia.cx/2025/03/my-rust-experience-after-eight-years/",
-            "urlToImage": null,
-            "publishedAt": "2025-03-31T11:05:33Z",
-            "content": "Soon it will be eight years since I’ve (re)started NihAV development in Rust. And for this round date I’d like to present my impressions and thoughts on the language—from the perspective of applicabi… [+11708 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Donna Almonte",
-            "title": "Free Content Plan Template To Adapt To Your Needs This 2025 via @sejournal, @donutcaramel13",
-            "description": "Plan smarter, publish better. A structured content plan keeps your marketing focused and efficient. Download the free template to get started.\nThe post Free Content Plan Template To Adapt To Your Needs This 2025 appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/free-content-plan-template/540761/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/content-planning-495.png",
-            "publishedAt": "2025-04-03T12:30:57Z",
-            "content": "Consistency is crucial when posting content to ensure your customers remain engaged with your business and its products.\r\nTo maintain consistency, it’s essential to develop a structured posting sched… [+13939 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Matt Bertram",
-            "title": "A Guide To Enterprise SEO Strategy For SaaS Brands",
-            "description": "Transform your SaaS model with an enterprise SEO strategy that focuses on sustainable growth and consumer engagement.\nThe post A Guide To Enterprise SEO Strategy For SaaS Brands appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/enterprise-seo-strategy-for-saas-brands/539360/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/saas-442.png",
-            "publishedAt": "2025-03-20T10:00:11Z",
-            "content": "The SaaS business model offers incredible scalability as well as profitability – but only when paired with the right marketing growth strategy.\r\nKnowing that the cost of hosting cloud-based applicati… [+16103 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": "Hadlee Simons",
-            "title": "This overkill chip opens the door to enhanced Gemini on Chromebooks",
-            "description": "MediaTek has announced a powerful Chromebook processor that's basically the Dimensity 9400, and this chip supports Gemini too.",
-            "url": "https://www.androidauthority.com/mediatek-chromebook-chip-gemini-3540649/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/MediaTek-Kompanio-Ultra-chip-official-image.jpg",
-            "publishedAt": "2025-04-02T14:00:43Z",
-            "content": "<ul><li>MediaTek has announced the Kompanio Ultra chip for Chromebooks.</li><li>The chip supports Gemini, but well have to wait for more details from Google next month.</li><li>Otherwise, the new pro… [+3690 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Whitbrook",
-            "title": "Magic: The Gathering‘s New Expansion Wants You to Behold Some Dragons",
-            "description": "Truly, this is the age of Magic: The Gathering dragons.",
-            "url": "https://gizmodo.com/magic-the-gathering-tarkir-dragonstorm-spoilers-details-release-date-2000577126",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/mtg-tarkir-dragonstorm-ugin-eye-of-the-storms.jpg",
-            "publishedAt": "2025-03-18T16:00:52Z",
-            "content": "Magic: The Gathering loves dragons. It loves them as major players in its lore, it loves them on lavish card art, it occasionally loves them in dungeons, when dallying about with its fellow Wizards o… [+6635 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Katelyn Chedraoui",
-            "title": "Premiere Pro's First AI-Powered Video Editing Tool Is Available Now: Here's How It Works",
-            "description": "After spending months in beta, the Firefly AI-powered video editing tool is available for all Premiere Pro editors.",
-            "url": "https://www.cnet.com/tech/services-and-software/premiere-pros-first-ai-powered-video-editing-tool-is-available-now-heres-how-it-works/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/6eb9528b4158fcb7faa084d0297f9a3e7a8e520a/hub/2025/04/01/cd4261d9-091b-4b2d-9a26-06fa410afd52/generative-extend-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-04-02T13:00:20Z",
-            "content": "AI video technology is ramping up, and Adobe is bringing its most recognizable AI editing tool out of beta. Generative extend is now the first Firefly-powered tool in Premiere Pro, coming out of beta… [+5153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SitePoint"
-            },
-            "author": "SitePoint Sponsors",
-            "title": "14 Best SEO Tools for Agencies to Boost Client Results in 2025",
-            "description": "Discover the 14 best SEO tools for agencies in 2025. Compare features, pricing, and usability to find the perfect solution for your clients and team.\n \n Continue reading\n 14 Best SEO Tools for Agencies to Boost Client Results in 2025\n on SitePoint.",
-            "url": "https://www.sitepoint.com/best-seo-tools-for-agencies/",
-            "urlToImage": "https://uploads.sitepoint.com/wp-content/uploads/2025/03/174242704214-Best-SEO-Tools-for-Agencies-to-Boost-Client-Results-in-2025.png",
-            "publishedAt": "2025-03-20T02:40:36Z",
-            "content": "Todays SEO agencies face difficult times. Algorithm updates and emerging competitors pose new challenges.\r\nOn the other hand, scaling up may not be as easy as it seems. Deadlines to meet, complicated… [+40601 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Googleblog.com"
-            },
-            "author": "Android Developers",
-            "title": "Making Google Play the best place to grow PC games",
-            "description": "Google Play is enhancing its platform for PC gaming to provide better gaming experiences for users, and create new ways for devs to engage PC players.",
-            "url": "https://android-developers.googleblog.com/2025/03/making-google-play-best-place-to-grow-pc-games.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCGZhKkWW2KbKlHfQoSLrrTif1k1E_sjOt4XQSdrDhEZ2Opq7BBEpup54gGgBseFIih1bv0VyQRhS_CgnkDvOHZWn4fZ7sS8aVU5yy15KXGw7_9tWtlkalJtv7gvjm4i1vNC8ln3bz3FSRZhhJaSVHtqjjsEO7VYu-_4C0sBGw4pphHUZFIxXC-ewVGTM/s1600/Play-spotlight-at-GDC-2025.png",
-            "publishedAt": "2025-03-13T15:30:00Z",
-            "content": "Posted by Aurash Mahbod – VP and GM of Games on Google Play\n\n\n\n\nWe’re stepping up our multiplatform gaming offering with exciting news dropping at this year’s Game Developers Conference (GDC). We’re … [+6203 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Css-tricks.com"
-            },
-            "author": "Andy Clarke",
-            "title": "Revisiting CSS border-image",
-            "description": "I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because …",
-            "url": "https://css-tricks.com/revisiting-css-border-image/",
-            "urlToImage": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/border-image-menu.png",
-            "publishedAt": "2025-03-21T13:24:11Z",
-            "content": "In my last article on Revisiting CSS Multi-Column Layout, I mentioned that almost twenty years have flown by since I wrote my first book, Transcending CSS. In it, I explained how and why to use what … [+13660 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Ben Khalesi",
-            "title": "11 awesome AI tools you can use for free",
-            "description": "These AI tools cost nothing, which is exactly how much I want to spend",
-            "url": "https://www.androidpolice.com/free-ai-tools-anyone-can-use/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/03/a-robotic-hand-holding-a-crossed-out-dollar-sign-with-various-ai-tool-icons-blurred-in-the-background.jpg",
-            "publishedAt": "2025-03-23T20:52:18Z",
-            "content": "AI tools are revolutionizing productivity, and many offer essential features for free. From grammar fixes to creative projects, these platforms help you get things done without draining your wallet. … [+8242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Democracy Now!"
-            },
-            "author": "webdev@democracynow.org (Democracy Now!)",
-            "title": "\"Catch and Revoke\": AI-Driven State Dept. Program Targets Pro-Palestinian Students & Visa Holders",
-            "description": "We speak with the Brennan Center’s Faiza Patel, who warns the Trump administration is ramping up efforts to target international students and other visitors and immigrants to the United States over pro-Palestinian speech. The State Department has reportedly l…",
-            "url": "https://www.democracynow.org/2025/3/21/catch_and_revoke",
-            "urlToImage": "https://www.democracynow.org/images/story/75/76375/full_hd/seg3-FaizaPatelBOX.jpg",
-            "publishedAt": "2025-03-21T12:38:49Z",
-            "content": "This is viewer supported news. Please do your part today.\r\nDonate\r\nWe speak with the Brennan Center’s Faiza Patel, who warns the Trump administration is ramping up efforts to target international stu… [+597 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Vincent Terrasi",
-            "title": "Agentic AI In SEO: AI Agents & Workflows For Ideation (Part 1) via @sejournal, @VincentTerrasi",
-            "description": "Find out how Agentic AI simplifies SEO workflows, allowing human experts to leverage agents for increased efficiency and improved rankings.\nThe post Agentic AI In SEO: AI Agents & Workflows For Ideation (Part 1) appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/agentic-ai-in-seo-ai-agents-workflows-ideation/540206/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/02/agentic-seo-298.png",
-            "publishedAt": "2025-03-17T11:30:24Z",
-            "content": "For more than two years, a new concept has been emerging called Agentic SEO.\r\nThe idea is to perform SEO using agents based on language models (LLMs) that perform complex tasks autonomously or semi-a… [+8864 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Noupe.com"
-            },
-            "author": "Noupe Editorial Team",
-            "title": "How to Optimize Your Short-Term Rental Website for Maximum Bookings",
-            "description": "The short-term rental market is thriving, with travelers increasingly opting for unique stays over traditional hotels. Platforms like Airbnb and Vrbo dominate the space, but relying solely on them limits your control over pricing, branding, and guest relation…",
-            "url": "https://www.noupe.com/business-online/how-to-optimize-your-short-term-rental-website-for-maximum-bookings.html",
-            "urlToImage": "https://www.noupe.com/wp-content/uploads/2025/04/engin-akyurt-kb6iq_-Pq3s-unsplash.jpg",
-            "publishedAt": "2025-04-03T13:22:39Z",
-            "content": "The short-term rental market is thriving, with travelers increasingly opting for unique stays over traditional hotels. Platforms like Airbnb and Vrbo dominate the space, but relying solely on them li… [+6214 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MakeUseOf"
-            },
-            "author": "Jayric Maning",
-            "title": "ChatGPT Still Doesn't Have Folders: Try These Extensions Instead",
-            "description": "It's beyond me why ChatGPT doesn't already have folders and better integrated management. Why, OpenAI?",
-            "url": "https://www.makeuseof.com/best-chatgpt-folder-chrome-extensions/",
-            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/person-using-superpower-chatgpt-extension-on-laptop.jpg",
-            "publishedAt": "2025-04-02T21:38:50Z",
-            "content": "ChatGPT launched in 2022, and yet, three years later, it still doesn't have one of its most requested features: integrated folders. As irritating as OpenAI's refusal to add folders is, there are some… [+4923 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smashingapps.com"
-            },
-            "author": "Team",
-            "title": "5 SEO Problems Killing Your Traffic (and How the SEMrush 7-Day Trial Fixes Them)",
-            "description": "This guide focuses on actionable fixes using SEMrush 7-day trial—a free, no-commitment way to diagnose and resolve SEO issues.",
-            "url": "https://www.smashingapps.com/seo-problems-semrush-7-day-trial-fixes/",
-            "urlToImage": "https://www.smashingapps.com/wp-content/uploads/2025/03/SEMrush-7-Day-Trial-e1743465449259.png",
-            "publishedAt": "2025-04-01T00:01:19Z",
-            "content": "Googles 2025 Core Update prioritizes user experience and EEAT (Experience, Expertise, Authority, Trust), leaving many websites grappling with traffic losses, keyword volatility, and backlink penaltie… [+5880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketingProfs.com"
-            },
-            "author": "Ayaz Nanji",
-            "title": "Eight Key SEO Tips for Blog Posts [Infographic]",
-            "description": "This infographic covers eight essential SEO tips to get your blog ranking as high as possible in online search results by optimizing your posts. Read the full article at MarketingProfs",
-            "url": "https://www.marketingprofs.com/chirp/2025/52881/key-seo-tips-for-blog-posts-infographic",
-            "urlToImage": "https://i.marketingprofs.com/assets/images/articles/lg/250403-infographic-lg.jpg",
-            "publishedAt": "2025-04-03T14:00:00Z",
-            "content": "Do you want to ensure that your blog ranks as high as possible in online search results?\r\nThen you should make sure to devote some time to optimizing each post you create.\r\nAn infographic (below) fro… [+362 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Practical Ecommerce"
-            },
-            "author": "Ann Smarty",
-            "title": "How Keywords Drive Helpful Content",
-            "description": "Keywords no longer guarantee traffic, but they do reveal prospects' needs.\nThe post How Keywords Drive Helpful Content appeared first on Practical Ecommerce.",
-            "url": "https://www.practicalecommerce.com/how-keywords-drive-helpful-content",
-            "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2025/04/How-Keywords-Drive-Helpful-Content.jpg",
-            "publishedAt": "2025-04-08T12:04:48Z",
-            "content": "Keyword rankings no longer guarantee organic traffic.\r\nA decade ago, we could estimate traffic to pages in Google’s top three organic positions based on keyword search volume. No more. Traffic is muc… [+6949 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Balaji Sreenivasan, Forbes Councils Member, \n Balaji Sreenivasan, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/balajisreenivasan/",
-            "title": "AI-Powered Search: The Next Frontier In Enterprise SaaS",
-            "description": "For businesses eager to embrace AI-powered search, the first step is understanding whether they’re ready for this transformation.",
-            "url": "https://www.forbes.com/councils/forbestechcouncil/2025/04/03/ai-powered-search-the-next-frontier-in-enterprise-saas/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66ba666bcb74ec0dcac8fc1f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-04-03T10:30:00Z",
-            "content": "Balaji Sreenivasan is the founder and CEO of Aurigo Software.\r\ngetty\r\nIn a recent Wall Street Journal article, Melissa Schilling, a professor at NYUs Stern School of Business, put it simply: Google h… [+5849 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mental Floss"
-            },
-            "author": "CaLea Johnson",
-            "title": "The 20 Most-Searched Text Abbreviations of 2025 (So Far)",
-            "description": "If you‘re wondering what FAFO or SMH means, you aren‘t alone.",
-            "url": "https://www.mentalfloss.com/most-searched-text-abbreviations-of-2025",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_383,w_6000,h_3375/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01jnp8rdcy6v9wgm9tzf.jpg",
-            "publishedAt": "2025-03-12T16:02:00Z",
-            "content": "Language is constantly evolving, and text abbreviations are no exception. Although many may still have a difficult time learning the slang terms that appeared on last years list of the most Googled t… [+3735 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Github.com"
-            },
-            "author": "needleful",
-            "title": "C Plus Prolog",
-            "description": "C plus Prolog. Contribute to needleful/c_plus_prolog development by creating an account on GitHub.",
-            "url": "https://github.com/needleful/c_plus_prolog",
-            "urlToImage": "https://opengraph.githubassets.com/ad364136b67c925563d28fc550096723a4437b1f4375fe9579b652a2999d5dbb/needleful/c_plus_prolog",
-            "publishedAt": "2025-03-13T22:48:45Z",
-            "content": "Prolog is the only good programming language. I should know, my website is written in Prolog.\r\nUnfortunately, C is the only useful programming language.\r\nScientists have been trying to find an answer… [+9922 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lohr.dev"
-            },
-            "author": "Michael Lohr",
-            "title": "How IMAP works under the hood",
-            "description": "The technology behind E-Mails (or ‘emails‘) always interested me. This is because in some sense it was way ahead of its time by being a decentralized communication system. Unlike WhatsApp, Telegram or other messenger services, where the service provi...",
-            "url": "https://blog.lohr.dev/imap-introduction",
-            "urlToImage": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1735043663893%2F3ab04669-58f8-4a59-8bda-2f3f29e5745d.webp%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng",
-            "publishedAt": "2025-03-29T09:05:33Z",
-            "content": "The technology behind E-Mails (or emails) always interested me. This is because in some sense it was way ahead of its time by being a decentralized communication system. Unlike WhatsApp, Telegram or … [+7965 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ghinda.com"
-            },
-            "author": "Lucian Ghinda",
-            "title": "How to create value objects in Ruby – the idiomatic way",
-            "description": "Learn to create value objects in Ruby using idiomatic practices, focusing on immutability, comparability, and the modern `Data` class",
-            "url": "https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way",
-            "urlToImage": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1742459200982%2F22875328-49e0-409b-a1b9-4b1d2986bed5.png%3Fw%3D1200%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng",
-            "publishedAt": "2025-03-20T10:03:17Z",
-            "content": "When writing Ruby OOP, a typical pattern might be to create an object to group multiple values together meaningfully and sometimes also add some extra methods (computed properties, predicates, repres… [+11235 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New Atlas"
-            },
-            "author": "Abhimanyu Ghoshal",
-            "title": "Google's first satellite for detecting wildfires is now in orbit",
-            "description": "The first satellite in a constellation designed specifically to locate wildfires early and precisely anywhere on the planet has now reached Earth's orbit, and it could forever change how we tackle unplanned infernos.Continue ReadingCategory: Environment, Scie…",
-            "url": "https://newatlas.com/environment/google-firesat-satellite-wildfires-orbit/",
-            "urlToImage": "https://assets.newatlas.com/dims4/default/860d55b/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcd%2Fd6%2Fcb94219944b2abb510645faed809%2Fwildfires-can-erupt-faster-than-current-systems-can-detect-them-and-do-immense-damage-if-theyre-not-tackled-soon-after-they-start.jpg&na.image_optimisation=0",
-            "publishedAt": "2025-03-18T15:19:34Z",
-            "content": "The first satellite in a constellation designed specifically to locate wildfires early and precisely anywhere on the planet has now reached Earth's orbit, and it could forever change how we tackle un… [+1964 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Googleblog.com"
-            },
-            "author": "Android Developers",
-            "title": "The Third Beta of Android 16",
-            "description": "Test your apps for compatibility with Android 16's changes, including those related to JobScheduler, broadcasts, and accessibility.",
-            "url": "https://android-developers.googleblog.com/2025/03/the-third-beta-of-android-16.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6KbFCPUa_RB6bL1i4NhyphenhyphencptybHQM-joo2Bj19ZMT8wtRnHHHQPMcWnudH1X5rh5i7JJt81hPBw6WSB5joOyCEswbtfONT8qG_CtHZelak8VFk2sUvzkxeVCt6Tc3MZUUFsSdrnGMr19cTLzEFtaA7zSGVdqH3iXr6rF-qL2Ll2iQ8cWZUzqvNjHXPeU/s1600/A16-moving.gif",
-            "publishedAt": "2025-03-13T18:00:00Z",
-            "content": "Posted by Matthew McCullough\r\n – VP of Product Management, Android Developer\n\n\n\n\n\nAndroid 16 has officially reached Platform Stability today with Beta 3! That means the API surface is locked, the app… [+9319 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yoast.com"
-            },
-            "author": "Edwin Toonen",
-            "title": "How to write valuable content that your clients will love",
-            "description": "As an agency owner, you need skills to write content that your clients and audiences will love. Luckily, you can learn how to do it with proper steps and helpful tools. Here, we’ll discuss how to plan, write, and optimize the content work for your clients. If…",
-            "url": "https://yoast.com/write-valuable-content-for-clients/",
-            "urlToImage": "https://yoast.com/app/uploads/2025/03/write-valuable-content-for-clients-yoast-og.png",
-            "publishedAt": "2025-03-12T13:03:59Z",
-            "content": "As an agency owner, you need skills to write content that your clients and audiences will love. Luckily, you can learn how to do it with proper steps and helpful tools. Here, well discuss how to plan… [+7624 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Practical Ecommerce"
-            },
-            "author": "Eric Schwartzman",
-            "title": "How to Beat Amazon at SEO",
-            "description": "Ted Kubaitis once feared competing against the ecommerce giant for organic rankings. Then an epiphany hit.\nThe post How to Beat Amazon at SEO appeared first on Practical Ecommerce.",
-            "url": "https://www.practicalecommerce.com/how-to-beat-amazon-at-seo",
-            "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2025/03/Ted-Kubaitis.jpg",
-            "publishedAt": "2025-03-19T13:24:09Z",
-            "content": "Ted Kubaitis once managed organic search for a retailer with 25,000 SKUs and 500 categories. He feared competing against Amazon for rankings until he realized most of its product pages had zero exter… [+4438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Practical Ecommerce"
-            },
-            "author": "Ann Smarty",
-            "title": "Brand Visibility Is the New SEO",
-            "description": "Search engines drive brand discovery for genAI platforms and research for humans.\nThe post Brand Visibility Is the New SEO appeared first on Practical Ecommerce.",
-            "url": "https://www.practicalecommerce.com/brand-visibility-is-the-new-seo",
-            "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2025/03/Essential-Metrics-for-Brand-Searches.jpg",
-            "publishedAt": "2025-03-24T08:15:58Z",
-            "content": "Brand visibility is becoming critical for AI search because consumers increasingly use ChatGPT, Gemini, Claude, and others for product and company recommendations.\r\nAs early as July 2023, a Capgemini… [+2713 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "F1technical.net"
-            },
-            "author": "Balazs Szabo",
-            "title": "TYRE PREVIEW: Thermal degradation is keyword in Bahrain",
-            "description": "Following last weekend's Suzuka race, F1 drivers will be back in action this weekend, with the Bahrain International Circuit hosting the fourth race of the season. F1Technical's senior writer Balazs Szabo delivers his tyre preview for the Manama round.",
-            "url": "https://www.f1technical.net/news/26576",
-            "urlToImage": "https://f1tcdn.net/images/news/bahrain-williams.jpeg",
-            "publishedAt": "2025-04-10T12:47:03Z",
-            "content": "By Balazs Szabo on 10 Apr 2025, 14:47\r\nFollowing last weekend's Suzuka race, F1 drivers will be back in action this weekend, with the Bahrain International Circuit hosting the fourth race of the seas… [+3987 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digiday"
-            },
-            "author": "Michael Bürgi",
-            "title": "Media Buying Briefing: Overheard at Digiday’s Media Buying Summit",
-            "description": "The Town Halls at the Media Buying Summit offered up insights on programmatic investment, commissions vs. fees and generating new business.",
-            "url": "http://digiday.com/media-buying/media-buying-briefing-overheard-at-digidays-media-buying-summit/",
-            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/01/hologram-media-digiday.jpg",
-            "publishedAt": "2025-03-24T04:01:00Z",
-            "content": "This article is part of Digidays coverage of its Digiday Media Buying Summit. More from the series →It always helps to know youre not alone in the challenges that you face professionally, personally … [+10119 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Expert Panel®, Forbes Councils Member, \n Expert Panel®, Forbes Councils Member\n https://www.forbes.com/councils/forbesagencycouncil/people/expertpanel/",
-            "title": "How To Boost ROI With Google PPC Ads: 19 Expert Tips And Alternatives",
-            "description": "With Google's automated PPC settings being optimized for its own performance metrics, advertisers must manage their bids, targeting and ad copy to ensure a strong ROI.",
-            "url": "https://www.forbes.com/councils/forbesagencycouncil/2025/04/07/how-to-boost-roi-with-google-ppc-ads-19-expert-tips-and-alternatives/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666b5d5b4d30e8ec9074ac03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-04-07T17:15:42Z",
-            "content": "getty\r\nMastering Google pay-per-click ads requires a strategic, hands-on approach to ensure every dollar spent delivers measurable returns. The platforms default PPC automation settings are optimized… [+9781 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Webdesignerdepot.com"
-            },
-            "author": "Noah Davis",
-            "title": "The Death of Google Search: Is the Search Engine on Its Last Legs?",
-            "description": "Google Search is increasingly dominated by excessive ads and AI-driven results, making it harder for users to find organic, relevant content. As a result, the search engine is losing its original value, with many turning to social media and alternative platfo…",
-            "url": "https://webdesignerdepot.com/the-death-of-google-search-is-the-search-engine-on-its-last-legs/",
-            "urlToImage": "https://webdesignerdepot-wp.s3.us-east-2.amazonaws.com/2025/02/07104504/3423.jpg",
-            "publishedAt": "2025-03-14T12:53:00Z",
-            "content": "In the world of digital marketing and web development, few institutions have been as influential as Google Search. For years, its been the go-to resource for navigating the web, driving traffic, and … [+6801 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Googleblog.com"
-            },
-            "author": "Unknown",
-            "title": "Introducing Audio Overviews, now available in the Gemini app",
-            "description": "What’s changing Leveraging the same technology that powers NotebookLM’s Audio Overviews, Gemini app users can now generate podcast-style con...",
-            "url": "http://workspaceupdates.googleblog.com/2025/03/audio-overview-gemini-app.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaYFhlSrNre35Mng8pmt5iePv668NArrjDt2lJq2vz2X7qhW3wnmzPejq5fi1b0McpUuKTMApv4AjMMO4TTMJEua1qm3TE0WcxcWqgYH2hVsxkF1-iy6R_2BacH7sRAW-WAryK3UrzPxbj/s1600/googlelogo_color_200x200.png",
-            "publishedAt": "2025-03-31T17:51:00Z",
-            "content": "What’s changingLeveraging the same technology that powers NotebookLM’s Audio Overviews, Gemini app users can now generate podcast-style conversations based on documents, slides, and Deep Research rep… [+2372 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Nick Zviadadze, Forbes Councils Member, \n Nick Zviadadze, Forbes Councils Member\n https://www.forbes.com/councils/forbesbusinesscouncil/people/nickzviadadze/",
-            "title": "Content Is Still King: How To Write SEO-Optimized Blogs In 2025",
-            "description": "Applying the SEO techniques in this guide allows you to create content that resonates with readers and delivers real results.",
-            "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/04/01/content-is-still-king-how-to-write-seo-optimized-blogs-in-2025/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67eaa436d867492c46ff3960/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-04-01T11:45:00Z",
-            "content": "Nick Zviadadze is the founder of MintSEO, an SEO and link-building agency.\r\ngetty\r\nAlthough quality content has always been crucial for ranking well on search engines, Google has redefined what quali… [+6274 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Diamond.jp"
-            },
-            "author": "牧野 洋",
-            "title": "ウクライナ危機で脱米国の機運高まる、核保有国の英仏は代わりになれるのか？ - KEYWORDで世界を読む",
-            "description": "米国による「核の傘（nuclear umbrella）」がなくなったら、欧州はどのようにしてロシアの脅威に対峙したらいいのか。核保有国（nuclear power）である英仏両国が代わりになればいい。脱米国に向けた議論はすでに始まっている。",
-            "url": "https://diamond.jp/articles/-/362398",
-            "urlToImage": "https://dol.ismcdn.jp/mwimgs/0/1/-/img_01a56b825c8dbe897b4b5be99a4bdd09211042.jpg",
-            "publishedAt": "2025-04-03T20:02:00Z",
-            "content": "nuclear umbrellanuclear power\r\nNATO\r\n2\r\n3\r\nI have decided to open up the strategic debate on the protection of our allies on the European continent through our nuclear deterrent."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Search Engine Journal"
-            },
-            "author": "Dan Taylor",
-            "title": "Improving Base-Level SEO Knowledge Across An Enterprise Organization via @sejournal, @TaylorDanRW",
-            "description": "Discover why SEO knowledge in an enterprise organization is essential for multi-department collaboration and overall success in businesses.\nThe post Improving Base-Level SEO Knowledge Across An Enterprise Organization appeared first on Search Engine Journal.",
-            "url": "https://www.searchenginejournal.com/improving-base-seo-knowledge-across-enterprise-organization/542760/",
-            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/03/seo-knowledge-enterprise-120.png",
-            "publishedAt": "2025-03-27T12:30:49Z",
-            "content": "One of the most common themes I’ve seen in SEO over the past decade, and it’s become even more frequent recently, is businesses’ growing desire to build a stronger SEO culture internally.\r\nThis isn’t… [+7832 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Diamond.jp"
-            },
-            "author": "牧野 洋",
-            "title": "住民投票の準備がスタート、トランプ政権は「民主党の牙城」へ集中砲火 - KEYWORDで世界を読む",
-            "description": "カリフォルニア州が米国から独立して建国する――。こんな動きが出ている。一見すると「カリフォルニア独立（California independence）」は荒唐無稽なシナリオだ。だが無下にはできない。トランプ政権との対立があまりにひどくなり、州内で独立に向けた住民投票（voter initiative）の準備が始まったからだ。",
-            "url": "https://diamond.jp/articles/-/362591",
-            "urlToImage": "https://dol.ismcdn.jp/mwimgs/5/a/-/img_5a84abca6e583f7618e69a9f13682cc3278378.jpg",
-            "publishedAt": "2025-04-09T19:35:00Z",
-            "content": "California independencevoter initiative\r\nCalexitEUBrexitCalifornias exit from the U.S.\r\nsignature-gathering campaign7225470002028547000225\r\n1CBS\r\nDonald Trump, when he said, I dont know if I want to … [+305 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digiday"
-            },
-            "author": "Ronan Shields",
-            "title": "Scope3’s latest launch is as much about the economics of ad tech as it is about AI",
-            "description": "Last week, Scope3 made a series of product announcements, touching on two of the hot-button issues in ad tech right now: brand safety and ad curation. This is a further sign that competition in ad tech is heating up.",
-            "url": "http://digiday.com/media-buying/scope3s-latest-launch-is-as-much-about-the-economics-of-ad-tech-as-it-is-about-ai/",
-            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/09/ai-robot-digiday.jpeg",
-            "publishedAt": "2025-03-17T04:01:00Z",
-            "content": "Last week, Scope3 made a series of product announcements, touching on two of the hot-button issues in ad tech right now: brand safety and ad curation. This is a further sign that competition in ad te… [+4687 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digiday"
-            },
-            "author": "Marty Swant",
-            "title": "Why big advertisers are buying Brave’s search ads — despite its small size",
-            "description": "The privacy-focused browser is pitching a high-intent alternative to Google that bypasses traditional tracking and attribution.",
-            "url": "http://digiday.com/media-buying/why-big-advertisers-are-buying-braves-search-ads-despite-its-small-size/",
-            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/01/search-spiral-digiday.jpg",
-            "publishedAt": "2025-04-02T04:01:00Z",
-            "content": "Being small and less data-dependent arent always selling points for attracting search advertisers. But in the case of one privacy-focused browser, both are core selling points.Since introducing searc… [+5609 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Osnews.com"
-            },
-            "author": "Thom Holwerda",
-            "title": "Microsoft makes it even harder to use a local account on Windows 11",
-            "description": "Do you want to install Windows 11 without internet access or without an online Microsoft Account? It seems Microsoft really doesn’t want you to, as it has removed a very common and popular way of bypassing this requirement. In the release notes for the latest…",
-            "url": "https://www.osnews.com/story/142023/microsoft-makes-it-even-harder-to-use-a-local-account-on-windows-11/",
-            "urlToImage": null,
-            "publishedAt": "2025-03-30T23:08:09Z",
-            "content": "Do you want to install Windows 11 without internet access or without an online Microsoft Account? It seems Microsoft really doesn’t want you to, as it has removed a very common and popular way of byp… [+1361 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Css-tricks.com"
-            },
-            "author": "Daniel Schwarz",
-            "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
-            "description": "Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.\n\nCase Study: Combining Cutting-Edge CSS Features Into a “Course…",
-            "url": "https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/",
-            "urlToImage": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png",
-            "publishedAt": "2025-03-25T12:47:18Z",
-            "content": "I came across this awesome article navigator by Jhey Tompkins:\r\nIt solved a UX problem I was facing on a project, so Ive adapted it to the needs of an online course a course navigator if you will and… [+17565 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Zive.cz"
-            },
-            "author": "Petr Urban",
-            "title": "Příště už to bude osobní. Gemini využije vaše data z vyhledávání nebo YouTubu",
-            "description": "Google svou AI propojí s dalšími svými aplikacemi. Bude tak moct pracovat s některými vašimi daty, což se promítne do osobnějšího přístupu. Aktuálně personalizaci nabízí model Gemini 2.0 Flash Thinking , zatím však ne v Česku. Jako první se chatbot propojuje …",
-            "url": "https://www.zive.cz/clanky/priste-uz-to-bude-osobni-gemini-vyuzije-vase-data-z-vyhledavani-nebo-youtubu/sc-3-a-233653/default.aspx",
-            "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=28152264",
-            "publishedAt": "2025-03-22T12:45:00Z",
-            "content": "Google svou AI propojí s dalími svými aplikacemi. Bude tak moct pracovat s nkterými vaimi daty, co se promítne do osobnjího pístupu. Aktuáln personalizaci nabízí model Gemini 2.0 Flash Thinking, zatí… [+914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digiday"
-            },
-            "author": "Marty Swant",
-            "title": "How ‘The Godfather of ad tech’ aims to ‘reimagine’ brand safety and challenge the status quo",
-            "description": "Scope3, led by the godfather of ad tech, is launching an AI-powered agentic ad platform it hopes will challenge brand safety leaders.",
-            "url": "http://digiday.com/media-buying/how-the-godfather-of-ad-tech-aims-to-reimagine-brand-safety-and-challenge-the-status-quo/",
-            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/03/brian-okelly-digiday.jpg",
-            "publishedAt": "2025-03-13T14:00:00Z",
-            "content": "Scope3 has unveiled an AI-powered agentic AI platform that aims to tap a trifecta of hyped ad tech topics: AI, curation and brand safety.The updates announced today leverage large language models and… [+7769 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Betalist.com"
-            },
-            "author": "BetaList",
-            "title": "Keyword Research Tool – Try it for free - No cost, No Sign-ups.",
+    "status": "success",
+    "totalResults": 55862,
+    "results": [
+        {
+            "article_id": "93e4ff7cbb2cd648c898ddc894714ddb",
+            "title": "185 करोड़ का घर खरीदने वाली बिहार की बहू ने दुल्हन बेटी को भी नहीं बक्शा, नीला लहंगा पहन हीरों में लदीं सीमा",
+            "link": "https://navbharattimes.indiatimes.com/lifestyle/fashion/seema-singh-shimmery-lehenga-look-steal-the-spotlight-from-bride-to-be-daughter-meghna-sangeet-attire/articleshow/120366540.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "सोशल मीडिया पर इस समय बस सीमा सिंह की बेटी मेघना की शादी ही छाई हुई है। जिसके प्री-वेडिंग फंक्शन में बॉलीवुड सितारों भी पहुंच रहे हैं। 16 अप्रैल की रात मेघना के संगीत में सभी सज-संवरकर पहुंचे, लेकिन यहां सबका ध्यान दुल्हन और दुल्हन की मम्मी पर ही अटक गया। और, भला होता भी क्यों न इवेंट जो उनके घर का था। लेकिन, ये बात भी माननी पड़ेगी कि जब नजरें 185 करोड़ रुपये का आलीशन घर खरीदकर चर्चा में आईं सीमा पर पड़ीं, तो सब दुल्हन मेघना को तो जैसे भुला ही बैठे।दरअसल, मुंबई के वर्ली में सीमा ने सी फेसिंग अपार्टमेंट खरीदा था, जिसकी कीमत शाहरुख खान के मन्नत से महज 15 करोड़ कम थी। जिसके चलते ही वह काफी समय तक सुर्खियों में छाई रहीं, तो अब उनकी बेटी की शादी टॉक ऑफ द टाउन बन गई है। जहां बिहार की बहुरानी का स्टाइल बेटी को ही पीछे छोड़ गया। ऐसे में अलग-अलग शेड के नीले कपड़ों में दुल्हन पर मां का स्टाइल भारी पड़ गया। (फोटो साभार: योगेन शाह)",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.langimg.com/photo/imgsize-3733277,msid-120366540/navbharat-times.jpg",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "97ac15c4778c9ad77785bf8e0bd55fca",
+            "title": "मरीजों को अब नहीं जाना होगा इंदौर:ग्रीन बेल्ट की बाधा दूर, धार मेडिकल कॉलेज के लिए 30 अप्रैल को खुलेंगे टेंडर",
+            "link": "https://www.bhaskar.com/local/mp/dhar/news/patients-will-no-longer-have-to-go-to-indore-134854391.html",
+            "keywords": null,
+            "creator": null,
+            "description": "धार में प्रस्तावित मेडिकल कॉलेज के निर्माण का मार्ग अब साफ हो गया है। लोक स्वास्थ्य विभाग की इस परियोजना को ग्रीन बेल्ट क्षेत्र में भूमि होने के कारण तकनीकी बाधाएं आ रही थीं। अब संरक्षित भूमि के मॉडिफिकेशन की प्रक्रिया पूरी हो चुकी है। इस प्रोजेक्ट के लिए प्रारंभिक बजट 260 करोड़ रुपए निर्धारित किया गया है। विभाग 30 अप्रैल को टेंडर प्रक्रिया शुरू करेगा। सभी आवश्यक अनुमतियां अंतिम चरण में हैं। यह मेडिकल कॉलेज धार जिले में स्वास्थ्य सेवाओं का सबसे बड़ा केंद्र होगा। इस परियोजना के पूरा होने से क्षेत्र के निवासियों को बेहतर चिकित्सा सुविधाएं मिलेंगी। साथ ही मेडिकल शिक्षा के क्षेत्र में भी नए अवसर खुलेंगे। यह प्रोजेक्ट स्थानीय स्वास्थ्य सेवाओं में एक महत्वपूर्ण मील का पत्थर साबित होगा। मेडिकल कॉलेज के निर्माण की टेंडर प्रक्रिया प्रारंभइसके साथ ही मेडिकल कॉलेज के निर्माण के लिए टेंडर प्रक्रिया भी प्रारंभ कर दी गई है। 260 करोड़ रुपए का प्रारंभिक बजट तय करते हुए टेंडर जारी किए गए हैं, जिन्हें 30 अप्रैल को खोला जाएगा। लोक स्वास्थ्य विभाग को कलेक्टर कार्यालय से आवश्यक अनुमतियां भी प्राप्त हो चुकी हैं। राजस्व विभाग ने मेडिकल कॉलेज के लिए नवीन आरटीओ कार्यालय के सामने स्थित भूमि स्वास्थ्य विभाग को आवंटित की थी। यह भूमि मास्टर प्लान में संरक्षित (कंजर्वेटेड) श्रेणी में दर्ज थी, जिसके चलते विभाग ने इस भूमि का लैंड यूज बदलने की प्रक्रिया शुरू की थी। अब यह बाधा भी दूर हो चुकी है। बाउंड्रीवाल निर्माण पूरास्‍वास्थ्य विभाग ने मेडिकल कॉलेज के निर्माण से पहले 2 करोड़ 95 लाख की लागत से बाउंड्रीवाल का निर्माण करवाया है। मेडिकल कॉलेज बनने के बाद आद‍िवासी बाहुल्‍य जिलों के ग्रामीणों का इसका फायदा मिलेगा। इंदौर और बड़े शहरों में मरीजों को रेफर करने बाध्‍यता समाप्‍त हो जाएगी। निजी हाथों में होगा संचालन पीपीपी यानि पब्‍लि‍क प्राइवेट पॉर्ट‍िसिपेशन के तहत निजी कंपनी द्वारा उक्‍त मेडिकल कॉलेज का निर्माण और संचालन किया जाएगा, लेकिन शासन भी इस में भागीदार रहेगा। इसमें हर वर्ग को इलाज के लिए न्‍यूनतम शुल्‍क निर्धारित किया जाएगा। सीएमएचओ आर के शिंदे ने बताया की जमीन से जुड़ी जो परेशानी आ रही थी वह खत्म हो गई है। विभाग को जमीन अलॉट हुई है मॉडिफिकेशन की प्रक्रिया पूरी कर ली गई है। मेडिकल कॉलेज के लिए जो टेंडर प्रक्रिया शुरू की गई थी वह जारी है उसमें एजेंसियों ने रुचि दिखाते हुए भाग लिया है। जल्दी टेंडर ओपन होंगे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/04/17/7bfdf43d-1580-412d-a027-3faacd4b05a6_1744862954831.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3cfc3897a943d286875f4352afe5faab",
+            "title": "BCCI: अभिषेक नायर और टी दिलीप कोचिंग टीम से हटाए गए, बॉर्डर-गावस्कर ट्रॉफी में हार के बाद BCCI का बड़ा फैसला",
+            "link": "https://www.amarujala.com/cricket/cricket-news/bcci-removes-abhishek-nayar-t-dilip-from-coaching-team-after-border-gavaskar-trophy-poor-performance-know-2025-04-17",
+            "keywords": null,
+            "creator": null,
+            "description": "भारतीय क्रिकेट कंट्रोल बोर्ड (बीसीसीआई) ने एक चौंकाने वाला फैसला लेते हुए फील्डिंग कोच टी दिलीप और असिस्टेंट कोच अभिषेक नायर को भारतीय टीम के कोचिंग स्टाफ से हटा दिया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/17/bcci-abhishek-nayar-t-dilip-coaching-team-border-gavaskar-trophy-team-india-poor-performance_9cfb9e18a544ec4b4f8d6c5098b67296.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fc8ec09abca819618510afe22de3dcd7",
+            "title": "Vicious campaign by BJP, BRS influenced SC’s scrutiny: Telangana Minister on Kancha Gachibowli order",
+            "link": "https://www.newindianexpress.com/states/telangana/2025/Apr/17/vicious-campaign-by-bjp-brs-influenced-scs-scrutiny-telangana-minister-on-kancha-gachibowli-order",
+            "keywords": [
+                "telangana"
+            ],
+            "creator": [
+                "Express News Service"
+            ],
             "description": null,
-            "url": "https://betalist.com/startups/massiveonlinemarketing?utm_campaign=startup-121272&utm_medium=atom&utm_source=newsfeed",
-            "urlToImage": null,
-            "publishedAt": "2025-04-06T15:00:00Z",
-            "content": "Keyword Research Tool is to discover what your audience is searching for, see trend patterns and get essential insights. Try it for free - No cost, no sign-ups.\n\nView startup"
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/newindianexpress/2025-04-17/ocr5s0t1/Sridhar%20Babu.jpg",
+            "video_url": null,
+            "source_id": "newindianexpress",
+            "source_name": "The New Indian Express",
+            "source_priority": 15406,
+            "source_url": "https://www.newindianexpress.com/nation",
+            "source_icon": "https://i.bytvi.com/domain_icons/newindianexpress.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
         },
         {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Rhys Wood",
-            "title": "There may be a huge catch to buying physical Nintendo Switch 2 Edition games",
-            "description": "Physical Nintendo Switch 2 Edition games might just be original Switch cartridges with a download code for the upgrade.",
-            "url": "https://www.techradar.com/gaming/there-may-be-a-huge-catch-to-buying-physical-nintendo-switch-2-edition-games",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/L4dYmaKrgKxmpqbtTkZkUM-1200-80.jpg",
-            "publishedAt": "2025-04-07T09:46:38Z",
-            "content": "<ul><li>Nintendo Switch 2 Edition games may be a combination of Switch 1 cartridges and a download code</li><li>This comes from a Nintendo UK support representative</li><li>Nothing on this front has … [+2299 chars]"
+            "article_id": "bc3c49df69c02abdfe460ece5cc8399e",
+            "title": "माधुरी दीक्षित के लिए गॉडफादर बना सुपरफ्लॉप एक्टर, पलट गई जिंदगी",
+            "link": "https://hindi.news18.com/news/entertainment/bollywood-subhash-ghai-worked-in-rajesh-khanna-aradhana-turned-as-director-1979-shatrughan-sinha-film-kalicharan-know-how-became-madhuri-dixit-godfather-9182015.html",
+            "keywords": [
+                "बॉलीवुड"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "Superflop Actor Who Became Godfather For Madhuri Dixit: क्या आप जानते हैं माधुरी दीक्षित को बॉलीवुड की 'धक-धक गर्ल' किसने बनाया? माधुरी को बॉलीवुड की धड़कन एक ऐसे एक्टर ने बनाया, जिनका खुद का एक्टिंग करियर फ्लॉप रहा.लेकिन, बाद में उन्होंने निर्देशन में अपना हाथ आजमाया और कई एक्टर्स की किस्मत संवारी. इन्हीं कलाकारों में से एक माधुरी दीक्षित भी रहीं. चलिए बताते हैं, कौन हैं वो सुपरफ्लॉप एक्टर, जो बना हिट डायरेक्टर...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/04/Madhuri-Dixit-2025-04-cd77fa34b162c2ae3e3cd6f3734f93be-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
         },
         {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "stephen.warwick@futurenet.com (Stephen Warwick)",
-            "title": "Strava has added four new features users will love, including a massive map rendering overhaul",
-            "description": "Strava has added four new features to its app, including a major new 3D map rendering upgrade.",
-            "url": "https://www.techradar.com/health-fitness/strava-has-added-four-new-features-users-will-love-including-a-massive-map-rendering-overhaul",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y9d4TvbBn4KgU8L57XjyP8-1200-80.jpg",
-            "publishedAt": "2025-04-09T10:08:23Z",
-            "content": "<ul><li>Strava just got four major upgrades</li><li>The company has added new route filtering, a redesigned activity page, and a Strava Stickers upgrade</li><li>The biggest change is a new proprietar… [+2043 chars]"
+            "article_id": "99a97dc34ec8dc690fcdd6a4c440521b",
+            "title": "Wanaparthy: Hospital seized, another issued warning",
+            "link": "https://www.thehansindia.com/telangana/wanaparthy-hospital-seized-another-issued-warning-963453",
+            "keywords": [
+                "telangana,news,state"
+            ],
+            "creator": [
+                "The Hans India"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.thehansindia.com/h-upload/2025/04/17/1543041-hospital.webp",
+            "video_url": null,
+            "source_id": "thehansindia",
+            "source_name": "The Hans India",
+            "source_priority": 41360,
+            "source_url": "http://www.thehansindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
         },
         {
-            "source": {
-                "id": null,
-                "name": "Adweek"
-            },
-            "author": "mmwachiro",
-            "title": "Meta’s Instagram Announces New AI-Powered Tools, Creator Marketing Solutions",
-            "description": "Instagram Creator Marketplace has been loaded with new AI-powered tools and features.",
-            "url": "https://www.adweek.com/social-marketing/metas-instagram-announces-new-ai-powered-tools-creator-marketing-solutions/",
-            "urlToImage": "https://www.adweek.com/wp-content/uploads/2025/03/meta-ai-tools-creators-2025.jpg?w=600&h=315&crop=1",
-            "publishedAt": "2025-03-25T11:46:37Z",
-            "content": "Metas Instagram is making it easier for brands and content creators to connect. The social media platform announced new artificial-intelligence-enabled creator discovery and content recommendation to… [+1704 chars]"
+            "article_id": "1389a59ad565f4fb80a0b95861c0bc5d",
+            "title": "Kesari Chapter 2 Box Office Day 1: दूसरे दिन एडवांस बुकिंग में ‘केसरी चैप्टर 2’ ने छापे करोड़ों, जानिए ओपनिंग डे का हाल",
+            "link": "https://www.prabhatkhabar.com/entertainment/bollywood/kesari-chapter-2-box-office-day-1-and-advance-booking-collection-of-akshay-kumar-courtroom-drama",
+            "keywords": [
+                "akshay kumar",
+                "bollywood news",
+                "entertainment news",
+                "bollywood",
+                "kesari chapter 2",
+                "box office collection"
+            ],
+            "creator": [
+                "Sheetal Choubey"
+            ],
+            "description": "Kesari Chapter 2 Box Office Day 1: अक्षय कुमार स्टारर जलियांवाला बाग हत्याकांड पर आधारित ऐतिहासिक कोर्ट रूम ड्रामा ‘केसरी चैप्टर 2’ कल 18 अप्रैल को सिनेमाघरों में रिलीज होने जा रही है. फिल्म ने एडवांस बुकिंग में अबतक 24,496 टिकट बेच दिए हैं. ऐसे में फिल्म पहले दन कितना कमाई कर सकती है, आइए बताते हैं.The post Kesari Chapter 2 Box Office Day 1: दूसरे दिन एडवांस बुकिंग में ‘केसरी चैप्टर 2’ ने छापे करोड़ों, जानिए ओपनिंग डे का हाल appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/04/Add-a-heading-2025-04-16T101026.753.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
         },
         {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Beth Worthy, Forbes Councils Member, \n Beth Worthy, Forbes Councils Member\n https://www.forbes.com/councils/forbesbusinesscouncil/people/bethworthy1/",
-            "title": "The Role Of Transcription In Data-Driven Product Development",
-            "description": "How can effective record-keeping and analysis help businesses unlock the hidden value within their consumer conversations?",
-            "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/03/28/the-role-of-transcription-in-data-driven-product-development/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/663cd61905ce3f6dcee4ac13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-03-28T11:30:00Z",
-            "content": "Beth Worthy, President of GMR Transcription. Providing accurate transcription services to court reporting firms, researchers and businesses.\r\ngetty\r\nI believe that understanding what drives consumer … [+6458 chars]"
+            "article_id": "975e236c5e63144f36fc6e1f2e45bd14",
+            "title": "Myanmar frees around 4,900 prisoners to mark traditional new year",
+            "link": "https://www.dtnext.in/news/world/myanmar-frees-around-4900-prisoners-to-mark-traditional-new-year-830329",
+            "keywords": [
+                "world,news"
+            ],
+            "creator": [
+                "AP"
+            ],
+            "description": "Senior Gen Min Aung Hlaing, the head of the ruling military council, pardoned 4,893 prisoners, MRTV reported.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dtnext-prod-new.s3.ap-south-1.amazonaws.com/h-upload/2025/04/17/750x450_861536-untitled-design-63.jpg",
+            "video_url": null,
+            "source_id": "dtnext",
+            "source_name": "Dt Next",
+            "source_priority": 113678,
+            "source_url": "https://www.dtnext.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
         },
         {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Peter Boyd, Forbes Councils Member, \n Peter Boyd, Forbes Councils Member\n https://www.forbes.com/councils/forbesagencycouncil/people/peterboyd1/",
-            "title": "How To Simplify Website Planning With AI—Without Sacrificing Creativity",
-            "description": "While you shouldn't use AI for everything, you can rely on it to manage menial tasks related to website development.",
-            "url": "https://www.forbes.com/councils/forbesagencycouncil/2025/03/12/how-to-simplify-website-planning-with-ai-without-sacrificing-creativity/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65131d3bcb7a1fc00ce69c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-03-12T11:00:00Z",
-            "content": "Peter Boyd is an attorney and the Founder of PaperStreet. He has successfully helped 2,000 law firms with their websites and marketing.\r\ngetty\r\nMarketing agencies value creativity and authenticity (o… [+5249 chars]"
+            "article_id": "2d70065f9768b78b6f58063c3fc0a758",
+            "title": "संभल हिंसाः सपा सांसद और विधायक पुत्र के बयान दर्ज:आयोग ने तीन-तीन घंटे तक पूछे 40 सवाल, दोनों बोले- सवाल-जवाब गोपनीय",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/sambhal/news/sambhal-violence-statements-of-sp-mp-and-mlas-son-recorded-134854388.html",
+            "keywords": null,
+            "creator": null,
+            "description": "संभल हिंसा के मामले में त्रिस्तरीय न्यायिक जांच आयोग के समक्ष समाजवादी पार्टी के सांसद जिया उर्रहमान बर्क और विधायक इकबाल महमूद के बेटे सुहैल इकबाल ने बुधवार को अपने बयान दर्ज कराए। दोनों नेताओं से आयोग के अध्यक्ष रिटायर्ड जज देवेंद्र अरोड़ा और अन्य दो सदस्यों ने लगभग तीन-तीन घंटे तक 35 से 40 सवाल पूछे। सपा सांसद जिया उर्रहमान बर्क और विधायक पुत्र सुहैल इकबाल अपने बयान दर्ज कराने के लिए लखनऊ पहुंचे। आयोग ने 19, 22 और 24 नवंबर के दौरान हुई घटनाओं के बारे में सवाल किए। सांसद बर्क ने 19 नवंबर को संभल में होने और मस्जिद जाने की बात स्वीकार की, वहीं 22 नवंबर को उन्होंने जुमे की नमाज अदा की थी और मीडिया द्वारा किए गए सवालों का जवाब दिया। 24 नवंबर को वे संभल में नहीं थे।विधायक पुत्र सुहैल इकबाल ने बताया कि 19 नवंबर को मस्जिद में थे और 22 नवंबर को वे संभल में ही थे लेकिन मस्जिद नहीं गए थे। उन्होंने 24 नवंबर को मस्जिद के बाहर रहने की जानकारी दी। जफर अली के बयान की स्थितिमस्जिद इंतजामिया कमेटी के सदस्य जफर अली एडवोकेट के अलावा मसूद अली फारुखी और मौलाना कासिम को 24 मार्च को लखनऊ जाकर बयान दर्ज कराना था, लेकिन 23 मार्च को SIT ने जफर अली से पूछताछ की और उसे गिरफ्तार कर लिया। वह मुरादाबाद जेल में बंद हैं, जिसके कारण उनका बयान अभी तक दर्ज नहीं हो सका है। 8 दिन पहले SIT ने बर्क से की थी पूछताछ8 अप्रैल को सांसद बर्क SIT के 12 वकील के साथ पेश हुए थे। इस दौरान संभल के नखासा थाने में उसने 3 घंटे पूछताछ की थी। बर्क से 50 सवाल पूछे गए थे। सांसद ने करीब 20-25 सवालों के सीधे जवाब दिए थे। लेकिन, करीब 30 सवालों पर या तो चुप्पी साध ली या गोलमोल जवाब दिए। पूरे समय तनाव में दिखे। बर्क को दिल्ली जाकर दिया था नोटिससंभल पुलिस ने 26 मार्च को दिल्ली जाकर सांसद बर्क को नोटिस दिया था। सांसद को 8 अप्रैल को SIT के सामने पेश होने के लिए कहा गया था। 4 अप्रैल को जामा मस्जिद के सदर जफर अली एडवोकेट ने SIT को बताया था- सांसद बर्क ने उन्हें जामा मस्जिद के सर्वे रोकने के लिए कहा था। बर्क ने कहा था- शाही जामा मस्जिद हमारी है और हमारी ही रहेगी। जामा मस्जिद के सर्वे के दौरान हुई थी हिंसासंभल में कोर्ट के आदेश पर एडवोकेट कमिश्नर 24 नवंबर, 2024 की सुबह 6.30 बजे जामा मस्जिद का सर्वे करने पहुंचे थे। टीम देखकर मुस्लिम समुदाय के लोग भड़क गए। कुछ ही देर में तीन हजार से ज्यादा लोग जामा मस्जिद के बाहर पहुंच गए। पुलिस ने रोकने की कोशिश की तो कुछ लोगों ने पथराव कर दिया। इसके बाद भगदड़ जैसे हालात हो गए। अचानक पथराव शुरू हो गया, पुलिस को भागना पड़ा। बवाल इतना बढ़ गया कि पुलिस ने पहले आंसू गैस के गोले दागे फिर लाठीचार्ज करके भीड़ को खदेड़ा। उग्र भीड़ ने 3 चौपहिया और 5 बाइकों में आग लगा दी। हालात कई घंटे बेकाबू रहे। सड़कों से 4 ट्रॉली पत्थर हटाए गए। हिंसा में गोली लगने से 4 युवकों की मौत हुई। सीओ अनुज चौधरी और एसपी के PRO के पैर में गोली लगी। एसपी समेत 15 अन्य पुलिसकर्मी भी घायल हुए। सांसद, विधायक का बेटा और 800 अज्ञात आरोपीहिंसा के बाद संभल पुलिस ने सांसद जियाउर्रहमान बर्क, सपा विधायक इकबाल महमूद के बेटे सुहेल इकबाल समेत 800 अज्ञात लोगों को आरोपी बनाया था। अब तक मस्जिद कमेटी के सदर जफर अली समेत 80 लोगों की गिरफ्तारी हो चुकी है। घटना की जांच के लिए 3 सदस्यीय न्यायिक जांच आयोग का गठन किया गया था। तीन सदस्यीय न्यायिक जांच आयोग में रिटायर्ड जज देवेंद्र अरोड़ा अध्यक्ष, रिटायर्ड आईपीएस अधिकारी और पूर्व डीजीपी एके जैन, और रिटायर्ड आईएएस अधिकारी अमित मोहन प्रसाद सदस्य के रूप में शामिल हैं। आयोग की टीम अब तक संभल में चार बार जांच के लिए जा चुकी है। एसपी कृष्ण कुमार विश्नोई 11 अप्रैल को लखनऊ में आयोग के सामने पेश होकर अपना बयान देंगे और सबूत भी सौंपेंगे। 23 मार्च को मस्जिद के सदर की हुई थी गिरफ्तारी23 मार्च को संभल पुलिस ने जामा मस्जिद के सदर जफर अली को घर से उठाकर कोतवाली ले गई थी। करीब 4 घंटे कोतवाली में पूछताछ की। पूछताछ के बाद उन्हें गिरफ्तार कर लिया गया था। जेल जाते वक्त जफर ने कहा था- हिंसा के बाद मैंने प्रेस कॉन्फ्रेंस की थी। इसलिए मुझे जेल भेजा गया। मुझे फंसाया गया है, क्योंकि मैंने पुलिस वालों की पोल खोल दी थी। मैंने बता दिया था कि बच्चों को इन्होंने मारा है। हिंसा में जितने भी लोग मारे हैं, उन्हें पुलिस और प्रशासन ने मारा है। 12 दिन पहले यानी 4 अप्रैल को SIT ने संभल ADJ द्वितीय कोर्ट में केस डायरी दाखिल की थी। इसमें 24 नवंबर को हुई हिंसा को लेकर कई बातें सामने आई थीं। इसके बाद अपर जिला शासकीय अधिवक्ता हरिओम प्रकाश सैनी ने बताया था- ​​​जफर अली के फोन की डिटेल जब खंगाली गई तो पाया गया कि इसमें सपा सांसद बर्क ही मुख्य साजिशकर्ता हैं। उन्होंने बताया था- जब जफर अली से SIT ने पूछा कि क्या सपा सांसद को सर्वे के बारे में जानकारी नहीं थी। इस पर सदर ने कहा, उनको पूरी जानकारी थी। उन्होंने 23 नवंबर की रात मुझे फोन करके सर्वे के बारे में बात की थी। सांसद ने जामा मस्जिद के आस-पास भीड़ जमा करने के लिए बोला था। उन्होंने यह भी कहा था, मैं अभी संभल के बाहर हूं। ये काम तुम्हें ही करना है। किसी भी हाल में ये सर्वे नहीं होना चाहिए। हरिओम प्रकाश सैनी ने बताया, सपा सांसद बर्क ने जफर अली को 23 नवंबर की रात 12 बजकर 32 मिनट पर फोन किया था। कहा था, मैं बेंगलुरु में हूं, मैं मौके पर नहीं हूं। तुम वहां पर हो, तुम जामा सदर हो, तुम लोगों को इकट्ठा कर सकते हो। लोगों को जमा करो। सर्वे किसी भी कीमत पर नहीं होना चाहिए। 24 नवंबर को 7 बजकर 1 मिनट से 8 बजे तक फोन पर बात की है। भीड़ को इकट्ठा करने के लिए मैसेज किए हैं। सपा सांसद ने अपने फोन से भी बात की है। पीआरओ के फोन से भी बात की है। हिंसा होने के बाद बर्क ने जफर से कहा था- आप पीसी करिए और बताइए कि जितने भी लोग मरे हैं, वो पुलिस की गोली से मरे हैं। पुलिस ने अवैध तमंचे से गोली चलाई है। जांच आयोग का गठनयूपी सरकार द्वारा गठित इस त्रिस्तरीय न्यायिक जांच आयोग में हाईकोर्ट के रिटायर्ड जज देवेंद्र अरोड़ा अध्यक्ष हैं, जबकि आयोग के सदस्य पूर्व डीजीपी एके जैन और पूर्व प्रमुख सचिव अमित मोहन प्रसाद हैं। यह आयोग हिंसा की घटना के सभी पहलुओं की जांच कर रहा है। ये खबर भी पढ़ेंः- सांसद बर्क से लखनऊ में 4 घंटे पूछताछ:संभल हिंसा का कोर्ट में दूध का दूध और पानी का पानी हो जाएगा, मुझे इंसाफ मिलेगा संभल हिंसा मामले में सांसद जियाउर्रहमान बर्क लखनऊ में न्यायिक जांच आयोग के सामने पेश हुए। उनसे करीब 4 घंटे तक पूछताछ की गई। इसके बाद बाहर निकले बर्क ने कहा- आयोग ने जो सवाल पूछे। उनके जवाब दे दिए हैं। अपने ऊपर दर्ज क्रिमिनल मुकदमों की जानकारी नहीं दे सकता। क्या सवाल-जवाब हुए, यह भी नहीं बता सकता। यह मेरी मजबूरी है। पढ़ें पूरी खबर...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/04/17/comp-130-2_1744865336.gif",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
         },
         {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Jeremy Schifeling, Contributor, \n Jeremy Schifeling, Contributor\n https://www.forbes.com/sites/jeremyschifeling/",
-            "title": "3 Ways To Leverage AI To Land A Job As A Law Student",
-            "description": "Here's how to stand out in a competitive legal labor market, drawing upon the power of AI!",
-            "url": "https://www.forbes.com/sites/jeremyschifeling/2025/03/19/3-ways-to-leverage-ai-to-land-a-job-as-a-law-student/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67db31645428e1e416e09860/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-03-19T21:41:34Z",
-            "content": "UMich Law School Library\r\ngetty\r\nWith the news that law school applications are up 20.5% over last year, the logical question becomes: How will all these new law students find jobs?\r\nAfter leading a … [+4362 chars]"
+            "article_id": "dcad967db44d15641e865d216d331fee",
+            "title": "Marvel star Florence Pugh campaigned to do dangerous stunt in Thunderbolts",
+            "link": "https://www.channelnewsasia.com/entertainment/florence-pugh-thunderbolts-jumping-merdeka-118-tower-5071036",
+            "keywords": [
+                "entertainment ,cna lifestyle"
+            ],
+            "creator": null,
+            "description": "Actress Florence Pugh became a \"sassy Karen\" as she campaigned to perform a dangerous stunt – jumping off Malaysia's Merdeka 118 tower – in upcoming movie Thunderbolts.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-17 04:47:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--ZvZ5JIlg--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2024-09-07t152131z_1_lynxmpek8606h_rtroptp_3_filmfestival-toronto-we-live-in-time.jpg?itok=6l33w95Q",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4142,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
         }
-    ]
+    ],
+    "nextPage": "1744865257927314039"
 }

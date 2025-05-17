@@ -1,7 +1,31 @@
-business
-entertainment
-general
-health
-science
-sports
-technology
+<Route path="/business"><News pageSize={6} country="us" category="technology" /></Route>
+<Route path="/entertainment"><News pageSize={6} country="us" category="technology" /></Route>
+<Route path="/general"><News pageSize={6} country="us" category="technology" /></Route>
+<Route path="/health"><News pageSize={6} country="us" category="technology" /></Route>
+<Route path="/science"><News pageSize={6} country="us" category="technology" /></Route>
+<Route path="/sports"><News pageSize={6} country="us" category="technology" /></Route>
+<Route path="/technology"><News pageSize={6} country="us" category="technology" /></Route>
+
+
+<Route path="/"><News pageSize={6} country="us" category="technology" /></Route>
+
+
+
+
+    <!-- business
+    crime,
+    domestic,
+    education,
+        entertainment,
+        environment,
+        food, 
+        health, 
+        lifestyle,
+        other,
+            politics,
+            science,
+            sports,
+            technology,
+                top,
+                tourism,
+                world  -->
